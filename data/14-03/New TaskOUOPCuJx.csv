@@ -1,0 +1,25 @@
+﻿dep_date,airline,dep_time,duration,stops,arr_time,price,source,destination,dateofbooking
+14/03/2022,Go First,16:40,01 h 35 m ,Non stop,18:15,"₹ 6,258",Mumbai,Bengaluru,13/03/2022
+14/03/2022,Air India,16:45,01 h 45 m ,Non stop,18:30,"₹ 6,258",Mumbai,Bengaluru,13/03/2022
+14/03/2022,AirAsia,20:10,01 h 55 m ,Non stop,22:05,"₹ 6,258",Mumbai,Bengaluru,13/03/2022
+14/03/2022,IndiGo,22:15,01 h 50 m ,Non stop,00:05,"₹ 6,258",Mumbai,Bengaluru,13/03/2022
+14/03/2022,Go First,22:50,01 h 45 m ,Non stop,00:35,"₹ 6,258",Mumbai,Bengaluru,13/03/2022
+14/03/2022,Go First,11:30,03 h 40 m ,1 stop via Goa,15:10,"₹ 6,258",Mumbai,Bengaluru,13/03/2022
+14/03/2022,IndiGo,04:50,01 h 50 m ,Non stop,06:40,"₹ 6,626",Mumbai,Bengaluru,13/03/2022
+14/03/2022,IndiGo,18:50,01 h 45 m ,Non stop,20:35,"₹ 6,626",Mumbai,Bengaluru,13/03/2022
+14/03/2022,IndiGo,13:10,09 h 15 m ,1 stop via Kochi,22:25,"₹ 6,657",Mumbai,Bengaluru,13/03/2022
+14/03/2022,IndiGo,17:10,01 h 45 m ,Non stop,18:55,"₹ 6,783",Mumbai,Bengaluru,13/03/2022
+14/03/2022,IndiGo,20:30,01 h 45 m ,Non stop,22:15,"₹ 6,783",Mumbai,Bengaluru,13/03/2022
+14/03/2022,IndiGo,01:15,01 h 35 m ,Non stop,02:50,"₹ 7,203",Mumbai,Bengaluru,13/03/2022
+14/03/2022,Vistara,21:00,01 h 50 m ,Non stop,22:50,"₹ 7,833",Mumbai,Bengaluru,13/03/2022
+14/03/2022,IndiGo,16:25,05 h 35 m ,1 stop via Chennai,22:00,"₹ 7,854",Mumbai,Bengaluru,13/03/2022
+14/03/2022,Vistara,16:00,01 h 45 m ,Non stop,17:45,"₹ 9,408",Mumbai,Bengaluru,13/03/2022
+14/03/2022,Vistara,19:00,01 h 45 m ,Non stop,20:45,"₹ 9,408",Mumbai,Bengaluru,13/03/2022
+14/03/2022,IndiGo,18:45,03 h 45 m ,1 stop via Mangalore,22:30,"₹ 9,450",Mumbai,Bengaluru,13/03/2022
+14/03/2022,Vistara,06:00,01 h 50 m ,Non stop,07:50,"₹ 10,143",Mumbai,Bengaluru,13/03/2022
+14/03/2022,IndiGo,23:45,04 h ,1 stop via Goa,03:45,"₹ 10,196",Mumbai,Bengaluru,13/03/2022
+14/03/2022,Go First,06:05,01 h 35 m ,Non stop,07:40,"₹ 11,464",Mumbai,Bengaluru,13/03/2022
+14/03/2022,Vistara,09:05,01 h 40 m ,Non stop,10:45,"₹ 12,243",Mumbai,Bengaluru,13/03/2022
+14/03/2022,AirAsia,13:05,01 h 40 m ,Non stop,14:45,"₹ 13,084",Mumbai,Bengaluru,13/03/2022
+14/03/2022,IndiGo,06:55,01 h 35 m ,Non stop,08:30,"₹ 13,503",Mumbai,Bengaluru,13/03/2022
+14/03/2022,IndiGo,14:20,01 h 45 m ,Non stop,16:05,"₹ 14,238",Mumbai,Bengaluru,13/03/2022

@@ -1,0 +1,81 @@
+﻿dep_date,airline,dep_time,duration,stops,arr_time,price,source,destination,dateofbooking
+"14 Mar, Mon",GO FIRST,  16:40,1h 35m,Non stop,  18:15,"₹6,258","Mumbai, BOM - Chatrapati Shivaji Airport, India","Bangalore, BLR - Kempegowda International Airport, India",13/03/2022
+"14 Mar, Mon",Air India,  16:45,1h 45m,Non stop,  18:30,"₹6,258","Mumbai, BOM - Chatrapati Shivaji Airport, India","Bangalore, BLR - Kempegowda International Airport, India",13/03/2022
+"14 Mar, Mon",GO FIRST,  22:50,1h 45m,Non stop,  00:35,"₹6,258","Mumbai, BOM - Chatrapati Shivaji Airport, India","Bangalore, BLR - Kempegowda International Airport, India",13/03/2022
+"14 Mar, Mon",IndiGo,  22:15,1h 50m,Non stop,  00:05,"₹6,258","Mumbai, BOM - Chatrapati Shivaji Airport, India","Bangalore, BLR - Kempegowda International Airport, India",13/03/2022
+"14 Mar, Mon",Air Asia,  20:10,1h 55m,Non stop,  22:05,"₹6,258","Mumbai, BOM - Chatrapati Shivaji Airport, India","Bangalore, BLR - Kempegowda International Airport, India",13/03/2022
+"14 Mar, Mon",GO FIRST,  11:30,3h 40m,1 stop - GOI,  15:10,"₹6,258","Mumbai, BOM - Chatrapati Shivaji Airport, India","Bangalore, BLR - Kempegowda International Airport, India",13/03/2022
+"14 Mar, Mon",IndiGo,  18:45,4h 5m,1 stop - HYD,  22:50,"₹6,258","Mumbai, BOM - Chatrapati Shivaji Airport, India","Bangalore, BLR - Kempegowda International Airport, India",13/03/2022
+"14 Mar, Mon",IndiGo,  16:20,4h 25m,1 stop - HYD,  20:45,"₹6,258","Mumbai, BOM - Chatrapati Shivaji Airport, India","Bangalore, BLR - Kempegowda International Airport, India",13/03/2022
+"14 Mar, Mon",GO FIRST,  19:15,4h 25m,1 stop - AMD,  23:40,"₹6,258","Mumbai, BOM - Chatrapati Shivaji Airport, India","Bangalore, BLR - Kempegowda International Airport, India",13/03/2022
+"14 Mar, Mon",GO FIRST,  18:30,5h 10m,1 stop - AMD,  23:40,"₹6,258","Mumbai, BOM - Chatrapati Shivaji Airport, India","Bangalore, BLR - Kempegowda International Airport, India",13/03/2022
+"14 Mar, Mon",GO FIRST,  12:30,6h 45m,1 stop - VNS,  19:15,"₹6,258","Mumbai, BOM - Chatrapati Shivaji Airport, India","Bangalore, BLR - Kempegowda International Airport, India",13/03/2022
+"14 Mar, Mon",Air Asia,  14:55,7h 30m,1 stop - COK,  22:25,"₹6,258","Mumbai, BOM - Chatrapati Shivaji Airport, India","Bangalore, BLR - Kempegowda International Airport, India",13/03/2022
+"14 Mar, Mon",Air Asia,  23:35,9h 5m,1 stop - GOI,  08:40,"₹6,258","Mumbai, BOM - Chatrapati Shivaji Airport, India","Bangalore, BLR - Kempegowda International Airport, India",13/03/2022
+"14 Mar, Mon",SpiceJet,  23:45,9h 15m,1 stop - GOI,  09:00,"₹6,258","Mumbai, BOM - Chatrapati Shivaji Airport, India","Bangalore, BLR - Kempegowda International Airport, India",13/03/2022
+"14 Mar, Mon",Air Asia,  14:55,9h 30m,1 stop - COK,  00:25,"₹6,258","Mumbai, BOM - Chatrapati Shivaji Airport, India","Bangalore, BLR - Kempegowda International Airport, India",13/03/2022
+"14 Mar, Mon",IndiGo,  17:10,1h 45m,Non stop,  18:55,"₹6,783","Mumbai, BOM - Chatrapati Shivaji Airport, India","Bangalore, BLR - Kempegowda International Airport, India",13/03/2022
+"14 Mar, Mon",IndiGo,  20:30,1h 45m,Non stop,  22:15,"₹6,783","Mumbai, BOM - Chatrapati Shivaji Airport, India","Bangalore, BLR - Kempegowda International Airport, India",13/03/2022
+"14 Mar, Mon",Vistara,  21:00,1h 50m,Non stop,  22:50,"₹7,309","Mumbai, BOM - Chatrapati Shivaji Airport, India","Bangalore, BLR - Kempegowda International Airport, India",13/03/2022
+"14 Mar, Mon",IndiGo,  01:15,1h 35m,Non stop,  02:50,"₹7,413","Mumbai, BOM - Chatrapati Shivaji Airport, India","Bangalore, BLR - Kempegowda International Airport, India",13/03/2022
+"14 Mar, Mon",SpiceJet,  15:30,17h 30m,1 stop - GOI,  09:00,"₹8,802","Mumbai, BOM - Chatrapati Shivaji Airport, India","Bangalore, BLR - Kempegowda International Airport, India",13/03/2022
+"14 Mar, Mon",SpiceJet,  11:35,21h 25m,1 stop - GOI,  09:00,"₹8,802","Mumbai, BOM - Chatrapati Shivaji Airport, India","Bangalore, BLR - Kempegowda International Airport, India",13/03/2022
+"14 Mar, Mon",Air Asia,  13:05,1h 40m,Non stop,  14:45,"₹8,884","Mumbai, BOM - Chatrapati Shivaji Airport, India","Bangalore, BLR - Kempegowda International Airport, India",13/03/2022
+"14 Mar, Mon",IndiGo,  10:30,5h 10m,1 stop - MAA,  15:40,"₹9,051","Mumbai, BOM - Chatrapati Shivaji Airport, India","Bangalore, BLR - Kempegowda International Airport, India",13/03/2022
+"14 Mar, Mon",IndiGo,  04:50,1h 50m,Non stop,  06:40,"₹9,093","Mumbai, BOM - Chatrapati Shivaji Airport, India","Bangalore, BLR - Kempegowda International Airport, India",13/03/2022
+"14 Mar, Mon",Air India,  16:00,8h 10m,1 stop - DEL,  00:10,"₹9,201","Mumbai, BOM - Chatrapati Shivaji Airport, India","Bangalore, BLR - Kempegowda International Airport, India",13/03/2022
+"14 Mar, Mon",Air India,  10:00,10h 5m,1 stop - DEL,  20:05,"₹9,201","Mumbai, BOM - Chatrapati Shivaji Airport, India","Bangalore, BLR - Kempegowda International Airport, India",13/03/2022
+"14 Mar, Mon",Air India,  21:30,11h 25m,1 stop - DEL,  08:55,"₹9,201","Mumbai, BOM - Chatrapati Shivaji Airport, India","Bangalore, BLR - Kempegowda International Airport, India",13/03/2022
+"14 Mar, Mon",Air India,  07:00,13h 5m,1 stop - DEL,  20:05,"₹9,201","Mumbai, BOM - Chatrapati Shivaji Airport, India","Bangalore, BLR - Kempegowda International Airport, India",13/03/2022
+"14 Mar, Mon",Air India,  19:00,13h 55m,1 stop - DEL,  08:55,"₹9,201","Mumbai, BOM - Chatrapati Shivaji Airport, India","Bangalore, BLR - Kempegowda International Airport, India",13/03/2022
+"14 Mar, Mon",Air India,  10:00,14h 10m,1 stop - DEL,  00:10,"₹9,201","Mumbai, BOM - Chatrapati Shivaji Airport, India","Bangalore, BLR - Kempegowda International Airport, India",13/03/2022
+"14 Mar, Mon",Air India,  18:00,14h 55m,1 stop - DEL,  08:55,"₹9,201","Mumbai, BOM - Chatrapati Shivaji Airport, India","Bangalore, BLR - Kempegowda International Airport, India",13/03/2022
+"14 Mar, Mon",Air India,  16:00,16h 55m,1 stop - DEL,  08:55,"₹9,201","Mumbai, BOM - Chatrapati Shivaji Airport, India","Bangalore, BLR - Kempegowda International Airport, India",13/03/2022
+"14 Mar, Mon",Air India,  07:00,17h 10m,1 stop - DEL,  00:10,"₹9,201","Mumbai, BOM - Chatrapati Shivaji Airport, India","Bangalore, BLR - Kempegowda International Airport, India",13/03/2022
+"14 Mar, Mon",Air India,  10:00,22h 55m,1 stop - DEL,  08:55,"₹9,201","Mumbai, BOM - Chatrapati Shivaji Airport, India","Bangalore, BLR - Kempegowda International Airport, India",13/03/2022
+"14 Mar, Mon",Air India,  07:00,1d 1h 55m,1 stop - DEL,  08:55,"₹9,201","Mumbai, BOM - Chatrapati Shivaji Airport, India","Bangalore, BLR - Kempegowda International Airport, India",13/03/2022
+"14 Mar, Mon",Air India,  21:30,1d 2h 40m,1 stop - DEL,  00:10,"₹9,201","Mumbai, BOM - Chatrapati Shivaji Airport, India","Bangalore, BLR - Kempegowda International Airport, India",13/03/2022
+"14 Mar, Mon",Air India,  19:00,1d 5h 10m,1 stop - DEL,  00:10,"₹9,201","Mumbai, BOM - Chatrapati Shivaji Airport, India","Bangalore, BLR - Kempegowda International Airport, India",13/03/2022
+"14 Mar, Mon",Vistara,  16:00,1h 45m,Non stop,  17:45,"₹9,409","Mumbai, BOM - Chatrapati Shivaji Airport, India","Bangalore, BLR - Kempegowda International Airport, India",13/03/2022
+"14 Mar, Mon",Vistara,  19:00,1h 45m,Non stop,  20:45,"₹9,409","Mumbai, BOM - Chatrapati Shivaji Airport, India","Bangalore, BLR - Kempegowda International Airport, India",13/03/2022
+"14 Mar, Mon",IndiGo,  18:45,3h 45m,1 stop - IXE,  22:30,"₹9,450","Mumbai, BOM - Chatrapati Shivaji Airport, India","Bangalore, BLR - Kempegowda International Airport, India",13/03/2022
+"14 Mar, Mon",Air India,  21:00,1d 1h 30m,1 stop - GOI,  22:30,"₹9,461","Mumbai, BOM - Chatrapati Shivaji Airport, India","Bangalore, BLR - Kempegowda International Airport, India",13/03/2022
+"14 Mar, Mon",IndiGo,  18:50,1h 45m,Non stop,  20:35,"₹9,618","Mumbai, BOM - Chatrapati Shivaji Airport, India","Bangalore, BLR - Kempegowda International Airport, India",13/03/2022
+"14 Mar, Mon",Air Asia,  07:20,11h 25m,1 stop - DEL,  18:45,"₹9,618","Mumbai, BOM - Chatrapati Shivaji Airport, India","Bangalore, BLR - Kempegowda International Airport, India",13/03/2022
+"14 Mar, Mon",IndiGo,  13:45,5h 15m,1 stop - BDQ,  19:00,"₹9,849","Mumbai, BOM - Chatrapati Shivaji Airport, India","Bangalore, BLR - Kempegowda International Airport, India",13/03/2022
+"14 Mar, Mon",IndiGo,  23:45,4h,1 stop - GOI,  03:45,"₹10,196","Mumbai, BOM - Chatrapati Shivaji Airport, India","Bangalore, BLR - Kempegowda International Airport, India",13/03/2022
+"14 Mar, Mon",Air India,  21:30,22h 35m,1 stop - DEL,  20:05,"₹10,703","Mumbai, BOM - Chatrapati Shivaji Airport, India","Bangalore, BLR - Kempegowda International Airport, India",13/03/2022
+"14 Mar, Mon",Air India,  19:00,1d 1h 5m,1 stop - DEL,  20:05,"₹10,703","Mumbai, BOM - Chatrapati Shivaji Airport, India","Bangalore, BLR - Kempegowda International Airport, India",13/03/2022
+"14 Mar, Mon",Air India,  18:00,1d 2h 5m,1 stop - DEL,  20:05,"₹10,703","Mumbai, BOM - Chatrapati Shivaji Airport, India","Bangalore, BLR - Kempegowda International Airport, India",13/03/2022
+"14 Mar, Mon",Air India,  16:00,1d 4h 5m,1 stop - DEL,  20:05,"₹10,703","Mumbai, BOM - Chatrapati Shivaji Airport, India","Bangalore, BLR - Kempegowda International Airport, India",13/03/2022
+"14 Mar, Mon",IndiGo,  06:15,4h 20m,1 stop - HYD,  10:35,"₹11,046","Mumbai, BOM - Chatrapati Shivaji Airport, India","Bangalore, BLR - Kempegowda International Airport, India",13/03/2022
+"14 Mar, Mon",Vistara,  19:20,13h 30m,1 stop - HYD,  08:50,"₹11,088","Mumbai, BOM - Chatrapati Shivaji Airport, India","Bangalore, BLR - Kempegowda International Airport, India",13/03/2022
+"14 Mar, Mon",Vistara,  19:20,1d 10m,1 stop - HYD,  19:30,"₹11,088","Mumbai, BOM - Chatrapati Shivaji Airport, India","Bangalore, BLR - Kempegowda International Airport, India",13/03/2022
+"14 Mar, Mon",Air India,  21:30,14h 45m,1 stop - DEL,  12:15,"₹11,627","Mumbai, BOM - Chatrapati Shivaji Airport, India","Bangalore, BLR - Kempegowda International Airport, India",13/03/2022
+"14 Mar, Mon",Air India,  19:00,17h 15m,1 stop - DEL,  12:15,"₹11,627","Mumbai, BOM - Chatrapati Shivaji Airport, India","Bangalore, BLR - Kempegowda International Airport, India",13/03/2022
+"14 Mar, Mon",Air India,  18:00,18h 15m,1 stop - DEL,  12:15,"₹11,627","Mumbai, BOM - Chatrapati Shivaji Airport, India","Bangalore, BLR - Kempegowda International Airport, India",13/03/2022
+"14 Mar, Mon",Air India,  16:00,20h 15m,1 stop - DEL,  12:15,"₹11,627","Mumbai, BOM - Chatrapati Shivaji Airport, India","Bangalore, BLR - Kempegowda International Airport, India",13/03/2022
+"14 Mar, Mon",Air India,  10:00,1d 2h 15m,1 stop - DEL,  12:15,"₹11,627","Mumbai, BOM - Chatrapati Shivaji Airport, India","Bangalore, BLR - Kempegowda International Airport, India",13/03/2022
+"14 Mar, Mon",Vistara,  19:20,13h 30m,1 stop - HYD,  08:50,"₹12,086","Mumbai, BOM - Chatrapati Shivaji Airport, India","Bangalore, BLR - Kempegowda International Airport, India",13/03/2022
+"14 Mar, Mon",Vistara,  19:20,1d 10m,1 stop - HYD,  19:30,"₹12,086","Mumbai, BOM - Chatrapati Shivaji Airport, India","Bangalore, BLR - Kempegowda International Airport, India",13/03/2022
+"14 Mar, Mon",Vistara,  06:00,1h 50m,Non stop,  07:50,"₹12,244","Mumbai, BOM - Chatrapati Shivaji Airport, India","Bangalore, BLR - Kempegowda International Airport, India",13/03/2022
+"14 Mar, Mon",Vistara,  06:00,1h 50m,Non stop,  07:50,"₹12,419","Mumbai, BOM - Chatrapati Shivaji Airport, India","Bangalore, BLR - Kempegowda International Airport, India",13/03/2022
+"14 Mar, Mon",Air Asia,  04:45,3h 55m,1 stop - GOI,  08:40,"₹12,736","Mumbai, BOM - Chatrapati Shivaji Airport, India","Bangalore, BLR - Kempegowda International Airport, India",13/03/2022
+"14 Mar, Mon",Vistara,  12:25,6h 25m,1 stop - DEL,  18:50,"₹12,914","Mumbai, BOM - Chatrapati Shivaji Airport, India","Bangalore, BLR - Kempegowda International Airport, India",13/03/2022
+"14 Mar, Mon",Vistara,  11:55,6h 55m,1 stop - DEL,  18:50,"₹12,914","Mumbai, BOM - Chatrapati Shivaji Airport, India","Bangalore, BLR - Kempegowda International Airport, India",13/03/2022
+"14 Mar, Mon",Vistara,  15:45,6h 55m,1 stop - DEL,  22:40,"₹12,914","Mumbai, BOM - Chatrapati Shivaji Airport, India","Bangalore, BLR - Kempegowda International Airport, India",13/03/2022
+"14 Mar, Mon",Vistara,  22:45,9h 55m,1 stop - DEL,  08:40,"₹12,914","Mumbai, BOM - Chatrapati Shivaji Airport, India","Bangalore, BLR - Kempegowda International Airport, India",13/03/2022
+"14 Mar, Mon",Vistara,  12:25,10h 15m,1 stop - DEL,  22:40,"₹12,914","Mumbai, BOM - Chatrapati Shivaji Airport, India","Bangalore, BLR - Kempegowda International Airport, India",13/03/2022
+"14 Mar, Mon",Vistara,  11:55,10h 45m,1 stop - DEL,  22:40,"₹12,914","Mumbai, BOM - Chatrapati Shivaji Airport, India","Bangalore, BLR - Kempegowda International Airport, India",13/03/2022
+"14 Mar, Mon",Vistara,  21:55,10h 45m,1 stop - DEL,  08:40,"₹12,914","Mumbai, BOM - Chatrapati Shivaji Airport, India","Bangalore, BLR - Kempegowda International Airport, India",13/03/2022
+"14 Mar, Mon",Vistara,  20:55,11h 45m,1 stop - DEL,  08:40,"₹12,914","Mumbai, BOM - Chatrapati Shivaji Airport, India","Bangalore, BLR - Kempegowda International Airport, India",13/03/2022
+"14 Mar, Mon",Vistara,  22:45,12h 5m,1 stop - DEL,  10:50,"₹12,914","Mumbai, BOM - Chatrapati Shivaji Airport, India","Bangalore, BLR - Kempegowda International Airport, India",13/03/2022
+"14 Mar, Mon",Vistara,  19:45,12h 55m,1 stop - DEL,  08:40,"₹12,914","Mumbai, BOM - Chatrapati Shivaji Airport, India","Bangalore, BLR - Kempegowda International Airport, India",13/03/2022
+"14 Mar, Mon",Vistara,  21:55,12h 55m,1 stop - DEL,  10:50,"₹12,914","Mumbai, BOM - Chatrapati Shivaji Airport, India","Bangalore, BLR - Kempegowda International Airport, India",13/03/2022
+"14 Mar, Mon",Vistara,  22:45,13h 5m,1 stop - DEL,  11:50,"₹12,914","Mumbai, BOM - Chatrapati Shivaji Airport, India","Bangalore, BLR - Kempegowda International Airport, India",13/03/2022
+"14 Mar, Mon",Vistara,  20:55,13h 55m,1 stop - DEL,  10:50,"₹12,914","Mumbai, BOM - Chatrapati Shivaji Airport, India","Bangalore, BLR - Kempegowda International Airport, India",13/03/2022
+"14 Mar, Mon",Vistara,  21:55,13h 55m,1 stop - DEL,  11:50,"₹12,914","Mumbai, BOM - Chatrapati Shivaji Airport, India","Bangalore, BLR - Kempegowda International Airport, India",13/03/2022
+"14 Mar, Mon",Vistara,  20:55,14h 55m,1 stop - DEL,  11:50,"₹12,914","Mumbai, BOM - Chatrapati Shivaji Airport, India","Bangalore, BLR - Kempegowda International Airport, India",13/03/2022
+"14 Mar, Mon",Vistara,  17:35,15h 5m,1 stop - DEL,  08:40,"₹12,914","Mumbai, BOM - Chatrapati Shivaji Airport, India","Bangalore, BLR - Kempegowda International Airport, India",13/03/2022
+"14 Mar, Mon",Vistara,  19:45,15h 5m,1 stop - DEL,  10:50,"₹12,914","Mumbai, BOM - Chatrapati Shivaji Airport, India","Bangalore, BLR - Kempegowda International Airport, India",13/03/2022
+"14 Mar, Mon",Vistara,  19:45,16h 5m,1 stop - DEL,  11:50,"₹12,914","Mumbai, BOM - Chatrapati Shivaji Airport, India","Bangalore, BLR - Kempegowda International Airport, India",13/03/2022

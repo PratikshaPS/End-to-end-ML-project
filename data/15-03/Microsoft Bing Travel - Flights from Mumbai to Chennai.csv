@@ -1,0 +1,128 @@
+﻿dep_date,airline,station,time,duration,stops,price,source,destination,dateofbooking
+"Thu, 14 Apr",SpiceJet,BOM - MAA,19:35 - 21:30, 1h 55m ,Non-stop,"₹ 4,364",Mumbai - BOM,Chennai - MAA,15/03/2022
+"Thu, 14 Apr",IndiGo,BOM - MAA,00:20 - 02:10, 1h 50m ,Non-stop,"₹ 4,469",Mumbai - BOM,Chennai - MAA,15/03/2022
+"Thu, 14 Apr",IndiGo,BOM - MAA,22:15 - 00:05, 1h 50m ,Non-stop,"₹ 4,469",Mumbai - BOM,Chennai - MAA,15/03/2022
+"Thu, 14 Apr",~Z,BOM - MAA,20:30 - 22:20, 1h 50m ,Non-stop,"₹ 4,544",Mumbai - BOM,Chennai - MAA,15/03/2022
+"Thu, 14 Apr",Go First,BOM - MAA,20:30 - 22:20, 1h 50m ,Non-stop,"₹ 4,574",Mumbai - BOM,Chennai - MAA,15/03/2022
+"Thu, 14 Apr",Mahfooz Aviation (Gambia) Ltd.,BOM - MAA,05:50 - 07:45, 1h 55m ,Non-stop,"₹ 4,544",Mumbai - BOM,Chennai - MAA,15/03/2022
+"Thu, 14 Apr",IndiGo,BOM - MAA,10:15 - 12:15, 2h ,Non-stop,"₹ 4,469",Mumbai - BOM,Chennai - MAA,15/03/2022
+"Thu, 14 Apr",IndiGo,BOM - MAA,16:45 - 18:45, 2h ,Non-stop,"₹ 4,469",Mumbai - BOM,Chennai - MAA,15/03/2022
+"Thu, 14 Apr",Go First,BOM - MAA,05:50 - 07:45, 1h 55m ,Non-stop,"₹ 4,574",Mumbai - BOM,Chennai - MAA,15/03/2022
+"Thu, 14 Apr",Vistara,BOM - MAA,21:00 - 23:05, 2h 5m ,Non-stop,"₹ 4,409",Mumbai - BOM,Chennai - MAA,15/03/2022
+"Thu, 14 Apr",~Z,BOM - MAA,11:00 - 13:00, 2h ,Non-stop,"₹ 4,544",Mumbai - BOM,Chennai - MAA,15/03/2022
+"Thu, 14 Apr",SpiceJet,BOM - MAA,05:40 - 07:50, 2h 10m ,Non-stop,"₹ 4,364",Mumbai - BOM,Chennai - MAA,15/03/2022
+"Thu, 14 Apr",Go First,BOM - MAA,11:00 - 13:00, 2h ,Non-stop,"₹ 4,574",Mumbai - BOM,Chennai - MAA,15/03/2022
+"Thu, 14 Apr",IndiGo,BOM - MAA,05:35 - 07:30, 1h 55m ,Non-stop,"₹ 4,683",Mumbai - BOM,Chennai - MAA,15/03/2022
+"Thu, 14 Apr",IndiGo,BOM - MAA,19:25 - 21:35, 2h 10m ,Non-stop,"₹ 4,469",Mumbai - BOM,Chennai - MAA,15/03/2022
+"Thu, 14 Apr",Vistara,BOM - MAA,09:45 - 11:50, 2h 5m ,Non-stop,"₹ 4,651",Mumbai - BOM,Chennai - MAA,15/03/2022
+"Thu, 14 Apr",IndiGo,BOM - MAA,09:00 - 11:15, 2h 15m ,Non-stop,"₹ 4,469",Mumbai - BOM,Chennai - MAA,15/03/2022
+"Thu, 14 Apr",IndiGo,BOM - MAA,15:25 - 17:20, 1h 55m ,Non-stop,"₹ 4,898",Mumbai - BOM,Chennai - MAA,15/03/2022
+"Thu, 14 Apr",Vistara,BOM - MAA,06:45 - 08:50, 2h 5m ,Non-stop,"₹ 4,724",Mumbai - BOM,Chennai - MAA,15/03/2022
+"Thu, 14 Apr",IndiGo,BOM - MAA,06:50 - 08:50, 2h ,Non-stop,"₹ 4,898",Mumbai - BOM,Chennai - MAA,15/03/2022
+"Thu, 14 Apr",Vistara,BOM - MAA,17:50 - 19:55, 2h 5m ,Non-stop,"₹ 5,144",Mumbai - BOM,Chennai - MAA,15/03/2022
+"Thu, 14 Apr",IndiGo,BOM - MAA,07:45 - 12:10, 4h 25m ,1 stop,"₹ 4,469",Mumbai - BOM,Chennai - MAA,15/03/2022
+"Thu, 14 Apr",IndiGo,BOM - MAA,16:05 - 20:15, 4h 10m ,1 stop,"₹ 4,787",Mumbai - BOM,Chennai - MAA,15/03/2022
+"Thu, 14 Apr",IndiGo,BOM - MAA,19:55 - 00:25, 4h 30m ,1 stop,"₹ 4,469",Mumbai - BOM,Chennai - MAA,15/03/2022
+"Thu, 14 Apr",IndiGo,BOM - MAA,11:45 - 15:55, 4h 10m ,1 stop,"₹ 5,440",Mumbai - BOM,Chennai - MAA,15/03/2022
+"Thu, 14 Apr",Air India,BOM - MAA,09:00 - 10:55, 1h 55m ,Non-stop,"₹ 8,360",Mumbai - BOM,Chennai - MAA,15/03/2022
+"Thu, 14 Apr",Air India,BOM - MAA,05:25 - 07:25, 2h ,Non-stop,"₹ 8,360",Mumbai - BOM,Chennai - MAA,15/03/2022
+"Thu, 14 Apr",IndiGo,BOM - MAA,14:40 - 18:30, 3h 50m ,1 stop,"₹ 6,469",Mumbai - BOM,Chennai - MAA,15/03/2022
+"Thu, 14 Apr",IndiGo,BOM - MAA,18:05 - 22:05, 4h ,1 stop,"₹ 6,647",Mumbai - BOM,Chennai - MAA,15/03/2022
+"Thu, 14 Apr",IndiGo,BOM - MAA,07:05 - 11:25, 4h 20m ,1 stop,"₹ 6,469",Mumbai - BOM,Chennai - MAA,15/03/2022
+"Thu, 14 Apr",IndiGo,BOM - MAA,07:15 - 11:25, 4h 10m ,1 stop,"₹ 6,746",Mumbai - BOM,Chennai - MAA,15/03/2022
+"Thu, 14 Apr",AirAsia (India),BOM - MAA,13:05 - 17:15, 4h 10m ,1 stop,"₹ 6,990",Mumbai - BOM,Chennai - MAA,15/03/2022
+"Thu, 14 Apr",IndiGo,BOM - MAA,09:00 - 15:10, 6h 10m ,1 stop,"₹ 4,725",Mumbai - BOM,Chennai - MAA,15/03/2022
+"Thu, 14 Apr",IndiGo,BOM - MAA,18:15 - 00:05, 5h 50m ,1 stop,"₹ 5,802",Mumbai - BOM,Chennai - MAA,15/03/2022
+"Thu, 14 Apr",IndiGo,BOM - MAA,17:15 - 22:05, 4h 50m ,1 stop,"₹ 7,047",Mumbai - BOM,Chennai - MAA,15/03/2022
+"Thu, 14 Apr",IndiGo,BOM - MAA,11:00 - 16:20, 5h 20m ,1 stop,"₹ 6,746",Mumbai - BOM,Chennai - MAA,15/03/2022
+"Thu, 14 Apr",IndiGo,BOM - MAA,06:15 - 11:25, 5h 10m ,1 stop,"₹ 7,047",Mumbai - BOM,Chennai - MAA,15/03/2022
+"Thu, 14 Apr",IndiGo,BOM - MAA,11:10 - 15:10, 4h ,1 stop,"₹ 8,970",Mumbai - BOM,Chennai - MAA,15/03/2022
+"Thu, 14 Apr",IndiGo,BOM - MAA,08:10 - 13:50, 5h 40m ,1 stop,"₹ 7,300",Mumbai - BOM,Chennai - MAA,15/03/2022
+"Thu, 14 Apr",IndiGo,BOM - MAA,09:55 - 15:55, 6h ,1 stop,"₹ 7,524",Mumbai - BOM,Chennai - MAA,15/03/2022
+"Thu, 14 Apr",IndiGo,BOM - MAA,16:55 - 21:20, 4h 25m ,1 stop,"₹ 9,466",Mumbai - BOM,Chennai - MAA,15/03/2022
+"Thu, 14 Apr",IndiGo,BOM - MAA,09:00 - 17:35, 8h 35m ,1 stop,"₹ 4,704",Mumbai - BOM,Chennai - MAA,15/03/2022
+"Thu, 14 Apr",IndiGo,BOM - MAA,09:10 - 15:15, 6h 5m ,1 stop,"₹ 7,754",Mumbai - BOM,Chennai - MAA,15/03/2022
+"Thu, 14 Apr",IndiGo,BOM - MAA,07:00 - 12:10, 5h 10m ,1 stop,"₹ 9,078",Mumbai - BOM,Chennai - MAA,15/03/2022
+"Thu, 14 Apr",IndiGo,BOM - MAA,22:40 - 08:05, 9h 25m ,1 stop,"₹ 4,704",Mumbai - BOM,Chennai - MAA,15/03/2022
+"Thu, 14 Apr",IndiGo,BOM - MAA,11:40 - 19:00, 7h 20m ,1 stop,"₹ 7,316",Mumbai - BOM,Chennai - MAA,15/03/2022
+"Thu, 14 Apr",IndiGo,BOM - MAA,00:10 - 08:05, 7h 55m ,1 stop,"₹ 7,172",Mumbai - BOM,Chennai - MAA,15/03/2022
+"Thu, 14 Apr",Air India,BOM - MAA,13:00 - 19:30, 6h 30m ,1 stop,"₹ 9,463",Mumbai - BOM,Chennai - MAA,15/03/2022
+"Thu, 14 Apr",AirAsia (India),BOM - MAA,07:55 - 15:05, 7h 10m ,1 stop,"₹ 9,878",Mumbai - BOM,Chennai - MAA,15/03/2022
+"Thu, 14 Apr",Vistara,BOM - MAA,15:45 - 22:45, 7h ,1 stop,"₹ 10,082",Mumbai - BOM,Chennai - MAA,15/03/2022
+"Thu, 14 Apr",Air India,BOM - MAA,16:00 - 23:35, 7h 35m ,1 stop,"₹ 9,463",Mumbai - BOM,Chennai - MAA,15/03/2022
+"Thu, 14 Apr",AirAsia (India),BOM - MAA,22:00 - 08:15, 10h 15m ,1 stop,"₹ 6,608",Mumbai - BOM,Chennai - MAA,15/03/2022
+"Thu, 14 Apr",Hahn Air Systems,BOM - MAA,19:35 - 21:30, 1h 55m ,Non-stop,"₹ 16,658",Mumbai - BOM,Chennai - MAA,15/03/2022
+"Thu, 14 Apr",Air India,BOM - MAA,15:25 - 23:35, 8h 10m ,2 stops,"₹ 9,463",Mumbai - BOM,Chennai - MAA,15/03/2022
+"Thu, 14 Apr",Hahn Air Systems,BOM - MAA,05:40 - 07:50, 2h 10m ,Non-stop,"₹ 16,658",Mumbai - BOM,Chennai - MAA,15/03/2022
+"Thu, 14 Apr",Vistara,BOM - MAA,12:25 - 20:15, 7h 50m ,1 stop,"₹ 10,502",Mumbai - BOM,Chennai - MAA,15/03/2022
+"Thu, 14 Apr",Vistara,BOM - MAA,10:25 - 16:20, 5h 55m ,1 stop,"₹ 13,023",Mumbai - BOM,Chennai - MAA,15/03/2022
+"Thu, 14 Apr",AirAsia (India),BOM - MAA,21:20 - 08:15, 10h 55m ,1 stop,"₹ 7,190",Mumbai - BOM,Chennai - MAA,15/03/2022
+"Thu, 14 Apr",Air India,BOM - MAA,20:25 - 08:30, 12h 5m ,1 stop,"₹ 5,964",Mumbai - BOM,Chennai - MAA,15/03/2022
+"Thu, 14 Apr",Vistara,BOM - MAA,11:55 - 20:15, 8h 20m ,1 stop,"₹ 10,688",Mumbai - BOM,Chennai - MAA,15/03/2022
+"Thu, 14 Apr",Vistara,BOM - MAA,14:40 - 22:45, 8h 5m ,1 stop,"₹ 11,073",Mumbai - BOM,Chennai - MAA,15/03/2022
+"Thu, 14 Apr",SpiceJet,BOM - MAA,18:35 - 07:00, 12h 25m ,1 stop,"₹ 6,045",Mumbai - BOM,Chennai - MAA,15/03/2022
+"Thu, 14 Apr",Vistara,BOM - MAA,12:25 - 22:45, 10h 20m ,1 stop,"₹ 10,111",Mumbai - BOM,Chennai - MAA,15/03/2022
+"Thu, 14 Apr",Vistara,BOM - MAA,22:45 - 09:55, 11h 10m ,1 stop,"₹ 9,348",Mumbai - BOM,Chennai - MAA,15/03/2022
+"Thu, 14 Apr",Vistara,BOM - MAA,08:45 - 16:20, 7h 35m ,1 stop,"₹ 14,018",Mumbai - BOM,Chennai - MAA,15/03/2022
+"Thu, 14 Apr",Vistara,BOM - MAA,11:55 - 22:45, 10h 50m ,1 stop,"₹ 10,268",Mumbai - BOM,Chennai - MAA,15/03/2022
+"Thu, 14 Apr",Air India,BOM - MAA,07:05 - 19:30, 12h 25m ,2 stops,"₹ 9,463",Mumbai - BOM,Chennai - MAA,15/03/2022
+"Thu, 14 Apr",Vistara,BOM - MAA,07:30 - 16:20, 8h 50m ,1 stop,"₹ 14,018",Mumbai - BOM,Chennai - MAA,15/03/2022
+"Thu, 14 Apr",Vistara,BOM - MAA,21:55 - 09:55, 12h ,1 stop,"₹ 10,338",Mumbai - BOM,Chennai - MAA,15/03/2022
+"Thu, 14 Apr",Vistara,BOM - MAA,10:45 - 20:15, 9h 30m ,2 stops,"₹ 14,132",Mumbai - BOM,Chennai - MAA,15/03/2022
+"Thu, 14 Apr",Vistara,BOM - MAA,06:30 - 16:20, 9h 50m ,1 stop,"₹ 14,018",Mumbai - BOM,Chennai - MAA,15/03/2022
+"Thu, 14 Apr",Vistara,BOM - MAA,06:00 - 16:20, 10h 20m ,1 stop,"₹ 14,018",Mumbai - BOM,Chennai - MAA,15/03/2022
+"Thu, 14 Apr",Air India,BOM - MAA,06:00 - 19:15, 13h 15m ,1 stop,"₹ 10,818",Mumbai - BOM,Chennai - MAA,15/03/2022
+"Thu, 14 Apr",Vistara,BOM - MAA,08:45 - 20:15, 11h 30m ,1 stop,"₹ 13,335",Mumbai - BOM,Chennai - MAA,15/03/2022
+"Thu, 14 Apr",Vistara,BOM - MAA,10:25 - 22:45, 12h 20m ,1 stop,"₹ 12,551",Mumbai - BOM,Chennai - MAA,15/03/2022
+"Thu, 14 Apr",Air India,BOM - MAA,19:00 - 08:55, 13h 55m ,1 stop,"₹ 11,150",Mumbai - BOM,Chennai - MAA,15/03/2022
+"Thu, 14 Apr",Vistara,BOM - MAA,10:45 - 22:45, 12h ,2 stops,"₹ 13,714",Mumbai - BOM,Chennai - MAA,15/03/2022
+"Thu, 14 Apr",SriLankan Airlines,BOM - MAA,20:40 - 02:25, 5h 45m ,1 stop,"₹ 21,395",Mumbai - BOM,Chennai - MAA,15/03/2022
+"Thu, 14 Apr",Air India,BOM - MAA,18:00 - 08:30, 14h 30m ,2 stops,"₹ 11,222",Mumbai - BOM,Chennai - MAA,15/03/2022
+"Thu, 14 Apr",Vistara,BOM - MAA,12:15 - 22:45, 10h 30m ,2 stops,"₹ 16,232",Mumbai - BOM,Chennai - MAA,15/03/2022
+"Thu, 14 Apr",Vistara,BOM - MAA,06:20 - 16:20, 10h ,2 stops,"₹ 17,073",Mumbai - BOM,Chennai - MAA,15/03/2022
+"Thu, 14 Apr",Air India,BOM - MAA,16:00 - 08:30, 16h 30m ,2 stops,"₹ 10,386",Mumbai - BOM,Chennai - MAA,15/03/2022
+"Thu, 14 Apr",Air India,BOM - MAA,21:00 - 08:55, 11h 55m ,2 stops,"₹ 16,124",Mumbai - BOM,Chennai - MAA,15/03/2022
+"Thu, 14 Apr",Air India,BOM - MAA,10:55 - 23:35, 12h 40m ,3 stops,"₹ 15,364",Mumbai - BOM,Chennai - MAA,15/03/2022
+"Thu, 14 Apr",Air India,BOM - MAA,19:00 - 12:40, 17h 40m ,1 stop,"₹ 9,539",Mumbai - BOM,Chennai - MAA,15/03/2022
+"Thu, 14 Apr",Air India,BOM - MAA,08:00 - 19:15, 11h 15m ,2 stops,"₹ 17,275",Mumbai - BOM,Chennai - MAA,15/03/2022
+"Thu, 14 Apr",Air India,BOM - MAA,07:05 - 19:15, 12h 10m ,3 stops,"₹ 16,316",Mumbai - BOM,Chennai - MAA,15/03/2022
+"Thu, 14 Apr",Air India,BOM - MAA,15:25 - 08:30, 17h 5m ,3 stops,"₹ 10,559",Mumbai - BOM,Chennai - MAA,15/03/2022
+"Thu, 14 Apr",Air India,BOM - MAA,07:00 - 19:15, 12h 15m ,2 stops,"₹ 16,316",Mumbai - BOM,Chennai - MAA,15/03/2022
+"Thu, 14 Apr",Vistara,BOM - MAA,07:00 - 16:20, 9h 20m ,2 stops,"₹ 21,482",Mumbai - BOM,Chennai - MAA,15/03/2022
+"Thu, 14 Apr",Air India,BOM - MAA,21:00 - 12:40, 15h 40m ,2 stops,"₹ 14,772",Mumbai - BOM,Chennai - MAA,15/03/2022
+"Thu, 14 Apr",Air India,BOM - MAA,06:10 - 19:30, 13h 20m ,2 stops,"₹ 17,676",Mumbai - BOM,Chennai - MAA,15/03/2022
+"Thu, 14 Apr",Air India,BOM - MAA,09:30 - 23:35, 14h 5m ,2 stops,"₹ 16,830",Mumbai - BOM,Chennai - MAA,15/03/2022
+"Thu, 14 Apr",SpiceJet,BOM - MAA,08:10 - 07:00, 22h 50m ,1 stop,"₹ 6,781",Mumbai - BOM,Chennai - MAA,15/03/2022
+"Thu, 14 Apr",Vistara,BOM - MAA,07:00 - 22:45, 15h 45m ,2 stops,"₹ 15,423",Mumbai - BOM,Chennai - MAA,15/03/2022
+"Thu, 14 Apr",Vistara,BOM - MAA,17:30 - 09:55, 16h 25m ,2 stops,"₹ 14,657",Mumbai - BOM,Chennai - MAA,15/03/2022
+"Thu, 14 Apr",Vistara,BOM - MAA,09:05 - 20:15, 11h 10m ,2 stops,"₹ 21,665",Mumbai - BOM,Chennai - MAA,15/03/2022
+"Thu, 14 Apr",Vistara,BOM - MAA,16:00 - 09:55, 17h 55m ,2 stops,"₹ 14,483",Mumbai - BOM,Chennai - MAA,15/03/2022
+"Thu, 14 Apr",Air India,BOM - MAA,05:45 - 23:35, 17h 50m ,2 stops,"₹ 15,450",Mumbai - BOM,Chennai - MAA,15/03/2022
+"Thu, 14 Apr",Vistara,BOM - MAA,21:30 - 16:20, 18h 50m ,2 stops,"₹ 14,378",Mumbai - BOM,Chennai - MAA,15/03/2022
+"Thu, 14 Apr",Vistara,BOM - MAA,11:25 - 22:45, 11h 20m ,2 stops,"₹ 23,709",Mumbai - BOM,Chennai - MAA,15/03/2022
+"Thu, 14 Apr",Emirates,BOM - MAA,10:10 - 20:30, 10h 20m ,1 stop,"₹ 25,093",Mumbai - BOM,Chennai - MAA,15/03/2022
+"Thu, 14 Apr",Air India,BOM - MAA,18:35 - 08:55, 14h 20m ,2 stops,"₹ 21,153",Mumbai - BOM,Chennai - MAA,15/03/2022
+"Thu, 14 Apr",Vistara,BOM - MAA,12:10 - 20:15, 8h 5m ,2 stops,"₹ 28,631",Mumbai - BOM,Chennai - MAA,15/03/2022
+"Thu, 14 Apr",Air India,BOM - MAA,18:35 - 12:40, 18h 5m ,2 stops,"₹ 19,578",Mumbai - BOM,Chennai - MAA,15/03/2022
+"Thu, 14 Apr",Air India,BOM - MAA,10:55 - 08:55, 22h ,2 stops,"₹ 15,722",Mumbai - BOM,Chennai - MAA,15/03/2022
+"Thu, 14 Apr",Hahn Air Systems,BOM - MAA,17:05 - 00:25, 7h 20m ,1 stop,"₹ 33,929",Mumbai - BOM,Chennai - MAA,15/03/2022
+"Thu, 14 Apr",Air India,BOM - MAA,12:05 - 12:40+1, 24h 35m ,2 stops,"₹ 13,873",Mumbai - BOM,Chennai - MAA,15/03/2022
+"Thu, 14 Apr",Oman Air,BOM - MAA,16:15 - 07:35, 15h 20m ,1 stop,"₹ 25,768",Mumbai - BOM,Chennai - MAA,15/03/2022
+"Thu, 14 Apr",Hahn Air Systems,BOM - MAA,18:35 - 07:00, 12h 25m ,1 stop,"₹ 30,539",Mumbai - BOM,Chennai - MAA,15/03/2022
+"Thu, 14 Apr",Emirates,BOM - MAA,15:35 - 08:25, 16h 50m ,1 stop,"₹ 26,286",Mumbai - BOM,Chennai - MAA,15/03/2022
+"Thu, 14 Apr",Alaska Seaplane,BOM - MAA,21:55 - 08:50, 10h 55m ,1 stop,"₹ 35,708",Mumbai - BOM,Chennai - MAA,15/03/2022
+"Thu, 14 Apr",Hahn Air Systems,BOM - MAA,21:55 - 08:50, 10h 55m ,1 stop,"₹ 37,827",Mumbai - BOM,Chennai - MAA,15/03/2022
+"Thu, 14 Apr",Hahn Air Systems,BOM - MAA,06:10 - 18:20, 12h 10m ,1 stop,"₹ 36,577",Mumbai - BOM,Chennai - MAA,15/03/2022
+"Thu, 14 Apr",Multiple Airlines,BOM - MAA,19:35 - 08:50, 13h 15m ,1 stop,"₹ 35,708",Mumbai - BOM,Chennai - MAA,15/03/2022
+"Thu, 14 Apr",Hahn Air Systems,BOM - MAA,07:20 - 21:10, 13h 50m ,1 stop,"₹ 35,708",Mumbai - BOM,Chennai - MAA,15/03/2022
+"Thu, 14 Apr",Hahn Air Systems,BOM - MAA,19:35 - 08:50, 13h 15m ,1 stop,"₹ 36,968",Mumbai - BOM,Chennai - MAA,15/03/2022
+"Thu, 14 Apr",Air India,BOM - MAA,09:50 - 19:30+1, 33h 40m ,2 stops,"₹ 14,833",Mumbai - BOM,Chennai - MAA,15/03/2022
+"Thu, 14 Apr",Hahn Air Systems,BOM - MAA,14:55 - 13:25, 22h 30m ,1 stop,"₹ 39,589",Mumbai - BOM,Chennai - MAA,15/03/2022
+"Thu, 14 Apr",Hahn Air Systems,BOM - MAA,10:15 - 21:10, 10h 55m ,1 stop,"₹ 54,996",Mumbai - BOM,Chennai - MAA,15/03/2022
+"Thu, 14 Apr",Hahn Air Systems,BOM - MAA,07:20 - 23:50, 16h 30m ,2 stops,"₹ 54,375",Mumbai - BOM,Chennai - MAA,15/03/2022
+"Thu, 14 Apr",Hahn Air Systems,BOM - MAA,15:35 - 08:50, 17h 15m ,2 stops,"₹ 54,978",Mumbai - BOM,Chennai - MAA,15/03/2022
+"Thu, 14 Apr",Hahn Air Systems,BOM - MAA,21:55 - 18:20, 20h 25m ,2 stops,"₹ 54,375",Mumbai - BOM,Chennai - MAA,15/03/2022
+"Thu, 14 Apr",Hahn Air Systems,BOM - MAA,07:20 - 07:00, 23h 40m ,2 stops,"₹ 51,802",Mumbai - BOM,Chennai - MAA,15/03/2022
+"Thu, 14 Apr",Multiple Airlines,BOM - MAA,10:15 - 00:15, 14h ,2 stops,"₹ 70,679",Mumbai - BOM,Chennai - MAA,15/03/2022
+"Thu, 14 Apr",Hahn Air Systems,BOM - MAA,10:15 - 23:50, 13h 35m ,2 stops,"₹ 72,421",Mumbai - BOM,Chennai - MAA,15/03/2022
+"Thu, 14 Apr",Hahn Air Systems,BOM - MAA,10:15 - 07:00, 20h 45m ,2 stops,"₹ 71,252",Mumbai - BOM,Chennai - MAA,15/03/2022

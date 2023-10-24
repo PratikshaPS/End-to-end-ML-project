@@ -1,0 +1,141 @@
+﻿dep_date,airline,station,time,duration,stops,price,source,destination,dateofbooking
+"Wed, 30 Mar",SpiceJet,BLR - CCU,17:05 - 19:35, 2h 30m ,Non-stop,"₹ 4,623",Bengaluru - BLR,Kolkata - CCU,15/03/2022
+"Wed, 30 Mar",AirAsia (India),BLR - CCU,18:15 - 20:25, 2h 10m ,Non-stop,"₹ 5,006",Bengaluru - BLR,Kolkata - CCU,15/03/2022
+"Wed, 30 Mar",Go First,BLR - CCU,11:40 - 14:10, 2h 30m ,Non-stop,"₹ 4,698",Bengaluru - BLR,Kolkata - CCU,15/03/2022
+"Wed, 30 Mar",Go First,BLR - CCU,20:35 - 23:05, 2h 30m ,Non-stop,"₹ 4,698",Bengaluru - BLR,Kolkata - CCU,15/03/2022
+"Wed, 30 Mar",IndiGo,BLR - CCU,12:10 - 14:20, 2h 10m ,Non-stop,"₹ 5,058",Bengaluru - BLR,Kolkata - CCU,15/03/2022
+"Wed, 30 Mar",IndiGo,BLR - CCU,13:40 - 16:05, 2h 25m ,Non-stop,"₹ 5,058",Bengaluru - BLR,Kolkata - CCU,15/03/2022
+"Wed, 30 Mar",IndiGo,BLR - CCU,18:10 - 20:35, 2h 25m ,Non-stop,"₹ 5,058",Bengaluru - BLR,Kolkata - CCU,15/03/2022
+"Wed, 30 Mar",AirAsia (India),BLR - CCU,06:30 - 09:00, 2h 30m ,Non-stop,"₹ 5,006",Bengaluru - BLR,Kolkata - CCU,15/03/2022
+"Wed, 30 Mar",IndiGo,BLR - CCU,19:45 - 22:15, 2h 30m ,Non-stop,"₹ 5,058",Bengaluru - BLR,Kolkata - CCU,15/03/2022
+"Wed, 30 Mar",IndiGo,BLR - CCU,22:05 - 00:35, 2h 30m ,Non-stop,"₹ 5,058",Bengaluru - BLR,Kolkata - CCU,15/03/2022
+"Wed, 30 Mar",AirAsia (India),BLR - CCU,23:30 - 02:05, 2h 35m ,Non-stop,"₹ 5,006",Bengaluru - BLR,Kolkata - CCU,15/03/2022
+"Wed, 30 Mar",IndiGo,BLR - CCU,23:25 - 02:00, 2h 35m ,Non-stop,"₹ 5,058",Bengaluru - BLR,Kolkata - CCU,15/03/2022
+"Wed, 30 Mar",IndiGo,BLR - CCU,07:45 - 10:20, 2h 35m ,Non-stop,"₹ 5,058",Bengaluru - BLR,Kolkata - CCU,15/03/2022
+"Wed, 30 Mar",IndiGo,BLR - CCU,15:25 - 18:00, 2h 35m ,Non-stop,"₹ 5,058",Bengaluru - BLR,Kolkata - CCU,15/03/2022
+"Wed, 30 Mar",IndiGo,BLR - CCU,06:30 - 09:05, 2h 35m ,Non-stop,"₹ 5,058",Bengaluru - BLR,Kolkata - CCU,15/03/2022
+"Wed, 30 Mar",IndiGo,BLR - CCU,09:15 - 11:50, 2h 35m ,Non-stop,"₹ 5,147",Bengaluru - BLR,Kolkata - CCU,15/03/2022
+"Wed, 30 Mar",AirAsia (India),BLR - CCU,17:05 - 19:50, 2h 45m ,Non-stop,"₹ 5,006",Bengaluru - BLR,Kolkata - CCU,15/03/2022
+"Wed, 30 Mar",Air India,BLR - CCU,05:20 - 07:45, 2h 25m ,Non-stop,"₹ 5,674",Bengaluru - BLR,Kolkata - CCU,15/03/2022
+"Wed, 30 Mar",AirAsia (India),BLR - CCU,08:10 - 11:15, 3h 5m ,Non-stop,"₹ 5,006",Bengaluru - BLR,Kolkata - CCU,15/03/2022
+"Wed, 30 Mar",FlexFlight,BLR - CCU,11:40 - 14:10, 2h 30m ,Non-stop,"₹ 6,009",Bengaluru - BLR,Kolkata - CCU,15/03/2022
+"Wed, 30 Mar",FlexFlight,BLR - CCU,20:35 - 23:05, 2h 30m ,Non-stop,"₹ 6,009",Bengaluru - BLR,Kolkata - CCU,15/03/2022
+"Wed, 30 Mar",AirAsia (India),BLR - CCU,14:20 - 18:05, 3h 45m ,1 stop,"₹ 5,702",Bengaluru - BLR,Kolkata - CCU,15/03/2022
+"Wed, 30 Mar",IndiGo,BLR - CCU,12:35 - 17:00, 4h 25m ,1 stop,"₹ 5,063",Bengaluru - BLR,Kolkata - CCU,15/03/2022
+"Wed, 30 Mar",IndiGo,BLR - CCU,18:35 - 23:15, 4h 40m ,1 stop,"₹ 5,063",Bengaluru - BLR,Kolkata - CCU,15/03/2022
+"Wed, 30 Mar",IndiGo,BLR - CCU,11:10 - 16:00, 4h 50m ,1 stop,"₹ 5,063",Bengaluru - BLR,Kolkata - CCU,15/03/2022
+"Wed, 30 Mar",IndiGo,BLR - CCU,14:50 - 19:45, 4h 55m ,1 stop,"₹ 5,063",Bengaluru - BLR,Kolkata - CCU,15/03/2022
+"Wed, 30 Mar",AirAsia (India),BLR - CCU,17:55 - 23:00, 5h 5m ,1 stop,"₹ 5,178",Bengaluru - BLR,Kolkata - CCU,15/03/2022
+"Wed, 30 Mar",IndiGo,BLR - CCU,15:40 - 20:55, 5h 15m ,1 stop,"₹ 5,063",Bengaluru - BLR,Kolkata - CCU,15/03/2022
+"Wed, 30 Mar",AirAsia (India),BLR - CCU,07:15 - 12:35, 5h 20m ,1 stop,"₹ 5,178",Bengaluru - BLR,Kolkata - CCU,15/03/2022
+"Wed, 30 Mar",IndiGo,BLR - CCU,00:25 - 06:05, 5h 40m ,1 stop,"₹ 5,063",Bengaluru - BLR,Kolkata - CCU,15/03/2022
+"Wed, 30 Mar",IndiGo,BLR - CCU,17:25 - 23:15, 5h 50m ,1 stop,"₹ 5,063",Bengaluru - BLR,Kolkata - CCU,15/03/2022
+"Wed, 30 Mar",IndiGo,BLR - CCU,07:10 - 13:20, 6h 10m ,1 stop,"₹ 5,063",Bengaluru - BLR,Kolkata - CCU,15/03/2022
+"Wed, 30 Mar",IndiGo,BLR - CCU,09:25 - 16:00, 6h 35m ,1 stop,"₹ 5,063",Bengaluru - BLR,Kolkata - CCU,15/03/2022
+"Wed, 30 Mar",IndiGo,BLR - CCU,10:05 - 15:55, 5h 50m ,1 stop,"₹ 5,893",Bengaluru - BLR,Kolkata - CCU,15/03/2022
+"Wed, 30 Mar",AirAsia (India),BLR - CCU,00:25 - 07:05, 6h 40m ,1 stop,"₹ 5,178",Bengaluru - BLR,Kolkata - CCU,15/03/2022
+"Wed, 30 Mar",IndiGo,BLR - CCU,16:10 - 22:40, 6h 30m ,1 stop,"₹ 5,472",Bengaluru - BLR,Kolkata - CCU,15/03/2022
+"Wed, 30 Mar",IndiGo,BLR - CCU,10:15 - 17:15, 7h ,1 stop,"₹ 5,063",Bengaluru - BLR,Kolkata - CCU,15/03/2022
+"Wed, 30 Mar",IndiGo,BLR - CCU,15:30 - 22:30, 7h ,1 stop,"₹ 5,063",Bengaluru - BLR,Kolkata - CCU,15/03/2022
+"Wed, 30 Mar",AirAsia (India),BLR - CCU,05:10 - 12:05, 6h 55m ,1 stop,"₹ 5,178",Bengaluru - BLR,Kolkata - CCU,15/03/2022
+"Wed, 30 Mar",AirAsia (India),BLR - CCU,07:35 - 14:35, 7h ,1 stop,"₹ 5,178",Bengaluru - BLR,Kolkata - CCU,15/03/2022
+"Wed, 30 Mar",IndiGo,BLR - CCU,21:45 - 05:15, 7h 30m ,1 stop,"₹ 5,063",Bengaluru - BLR,Kolkata - CCU,15/03/2022
+"Wed, 30 Mar",AirAsia (India),BLR - CCU,14:20 - 22:00, 7h 40m ,1 stop,"₹ 5,178",Bengaluru - BLR,Kolkata - CCU,15/03/2022
+"Wed, 30 Mar",IndiGo,BLR - CCU,08:05 - 16:00, 7h 55m ,1 stop,"₹ 5,063",Bengaluru - BLR,Kolkata - CCU,15/03/2022
+"Wed, 30 Mar",AirAsia (India),BLR - CCU,22:30 - 07:05, 8h 35m ,1 stop,"₹ 5,179",Bengaluru - BLR,Kolkata - CCU,15/03/2022
+"Wed, 30 Mar",IndiGo,BLR - CCU,08:35 - 17:30, 8h 55m ,1 stop,"₹ 5,177",Bengaluru - BLR,Kolkata - CCU,15/03/2022
+"Wed, 30 Mar",IndiGo,BLR - CCU,16:50 - 22:20, 5h 30m ,1 stop,"₹ 8,832",Bengaluru - BLR,Kolkata - CCU,15/03/2022
+"Wed, 30 Mar",AirAsia (India),BLR - CCU,16:15 - 02:25, 10h 10m ,1 stop,"₹ 5,178",Bengaluru - BLR,Kolkata - CCU,15/03/2022
+"Wed, 30 Mar",IndiGo,BLR - CCU,20:45 - 06:50, 10h 5m ,1 stop,"₹ 5,439",Bengaluru - BLR,Kolkata - CCU,15/03/2022
+"Wed, 30 Mar",Go First,BLR - CCU,10:25 - 18:30, 8h 5m ,1 stop,"₹ 7,913",Bengaluru - BLR,Kolkata - CCU,15/03/2022
+"Wed, 30 Mar",AirAsia (India),BLR - CCU,06:50 - 18:05, 11h 15m ,1 stop,"₹ 5,178",Bengaluru - BLR,Kolkata - CCU,15/03/2022
+"Wed, 30 Mar",AirAsia (India),BLR - CCU,11:15 - 23:00, 11h 45m ,1 stop,"₹ 5,179",Bengaluru - BLR,Kolkata - CCU,15/03/2022
+"Wed, 30 Mar",IndiGo,BLR - CCU,08:20 - 18:35, 10h 15m ,2 stops,"₹ 6,826",Bengaluru - BLR,Kolkata - CCU,15/03/2022
+"Wed, 30 Mar",FlexFlight,BLR - CCU,16:30 - 00:30, 8h ,1 stop,"₹ 9,464",Bengaluru - BLR,Kolkata - CCU,15/03/2022
+"Wed, 30 Mar",IndiGo,BLR - CCU,08:20 - 15:55, 7h 35m ,2 stops,"₹ 10,039",Bengaluru - BLR,Kolkata - CCU,15/03/2022
+"Wed, 30 Mar",Vistara,BLR - CCU,11:30 - 18:05, 6h 35m ,1 stop,"₹ 11,130",Bengaluru - BLR,Kolkata - CCU,15/03/2022
+"Wed, 30 Mar",Vistara,BLR - CCU,09:30 - 16:55, 7h 25m ,1 stop,"₹ 10,416",Bengaluru - BLR,Kolkata - CCU,15/03/2022
+"Wed, 30 Mar",Go First,BLR - CCU,16:30 - 00:30, 8h ,1 stop,"₹ 10,435",Bengaluru - BLR,Kolkata - CCU,15/03/2022
+"Wed, 30 Mar",Air India,BLR - CCU,13:20 - 19:10, 5h 50m ,1 stop,"₹ 12,937",Bengaluru - BLR,Kolkata - CCU,15/03/2022
+"Wed, 30 Mar",FlexFlight,BLR - CCU,22:15 - 07:45, 9h 30m ,1 stop,"₹ 9,464",Bengaluru - BLR,Kolkata - CCU,15/03/2022
+"Wed, 30 Mar",AirAsia (India),BLR - CCU,07:15 - 14:35, 7h 20m ,2 stops,"₹ 12,166",Bengaluru - BLR,Kolkata - CCU,15/03/2022
+"Wed, 30 Mar",Vistara,BLR - CCU,09:45 - 18:05, 8h 20m ,1 stop,"₹ 11,170",Bengaluru - BLR,Kolkata - CCU,15/03/2022
+"Wed, 30 Mar",Go First,BLR - CCU,19:55 - 07:45, 11h 50m ,1 stop,"₹ 7,913",Bengaluru - BLR,Kolkata - CCU,15/03/2022
+"Wed, 30 Mar",Go First,BLR - CCU,22:15 - 07:45, 9h 30m ,1 stop,"₹ 10,435",Bengaluru - BLR,Kolkata - CCU,15/03/2022
+"Wed, 30 Mar",Go First,BLR - CCU,13:55 - 21:55, 8h ,1 stop,"₹ 12,045",Bengaluru - BLR,Kolkata - CCU,15/03/2022
+"Wed, 30 Mar",Hahn Air Systems,BLR - CCU,17:05 - 19:35, 2h 30m ,Non-stop,"₹ 18,133",Bengaluru - BLR,Kolkata - CCU,15/03/2022
+"Wed, 30 Mar",Air India,BLR - CCU,06:10 - 14:30, 8h 20m ,1 stop,"₹ 11,944",Bengaluru - BLR,Kolkata - CCU,15/03/2022
+"Wed, 30 Mar",Go First,BLR - CCU,17:35 - 03:35, 10h ,1 stop,"₹ 10,463",Bengaluru - BLR,Kolkata - CCU,15/03/2022
+"Wed, 30 Mar",AirAsia (India),BLR - CCU,13:05 - 22:00, 8h 55m ,2 stops,"₹ 11,789",Bengaluru - BLR,Kolkata - CCU,15/03/2022
+"Wed, 30 Mar",Multiple Airlines,BLR - CCU,17:35 - 03:35, 10h ,1 stop,"₹ 10,849",Bengaluru - BLR,Kolkata - CCU,15/03/2022
+"Wed, 30 Mar",Air India,BLR - CCU,06:10 - 15:00, 8h 50m ,2 stops,"₹ 12,317",Bengaluru - BLR,Kolkata - CCU,15/03/2022
+"Wed, 30 Mar",Go First,BLR - CCU,21:30 - 07:50, 10h 20m ,1 stop,"₹ 11,099",Bengaluru - BLR,Kolkata - CCU,15/03/2022
+"Wed, 30 Mar",Air India,BLR - CCU,13:20 - 22:25, 9h 5m ,1 stop,"₹ 12,500",Bengaluru - BLR,Kolkata - CCU,15/03/2022
+"Wed, 30 Mar",Air India,BLR - CCU,10:00 - 19:10, 9h 10m ,1 stop,"₹ 12,430",Bengaluru - BLR,Kolkata - CCU,15/03/2022
+"Wed, 30 Mar",Multiple Airlines,BLR - CCU,21:30 - 07:50, 10h 20m ,1 stop,"₹ 11,767",Bengaluru - BLR,Kolkata - CCU,15/03/2022
+"Wed, 30 Mar",Vistara,BLR - CCU,21:10 - 08:20, 11h 10m ,1 stop,"₹ 11,130",Bengaluru - BLR,Kolkata - CCU,15/03/2022
+"Wed, 30 Mar",Vistara,BLR - CCU,08:30 - 16:55, 8h 25m ,1 stop,"₹ 14,105",Bengaluru - BLR,Kolkata - CCU,15/03/2022
+"Wed, 30 Mar",AirAsia (India),BLR - CCU,06:10 - 23:00, 16h 50m ,1 stop,"₹ 5,179",Bengaluru - BLR,Kolkata - CCU,15/03/2022
+"Wed, 30 Mar",Vistara,BLR - CCU,21:40 - 09:40, 12h ,1 stop,"₹ 10,416",Bengaluru - BLR,Kolkata - CCU,15/03/2022
+"Wed, 30 Mar",SpiceJet,BLR - CCU,05:45 - 20:50, 15h 5m ,1 stop,"₹ 7,356",Bengaluru - BLR,Kolkata - CCU,15/03/2022
+"Wed, 30 Mar",Vistara,BLR - CCU,09:30 - 18:05, 8h 35m ,2 stops,"₹ 14,516",Bengaluru - BLR,Kolkata - CCU,15/03/2022
+"Wed, 30 Mar",Air India,BLR - CCU,18:40 - 08:15, 13h 35m ,1 stop,"₹ 9,219",Bengaluru - BLR,Kolkata - CCU,15/03/2022
+"Wed, 30 Mar",Vistara,BLR - CCU,11:30 - 19:35, 8h 5m ,2 stops,"₹ 16,009",Bengaluru - BLR,Kolkata - CCU,15/03/2022
+"Wed, 30 Mar",Vistara,BLR - CCU,06:40 - 16:55, 10h 15m ,1 stop,"₹ 14,105",Bengaluru - BLR,Kolkata - CCU,15/03/2022
+"Wed, 30 Mar",Air India,BLR - CCU,10:00 - 22:25, 12h 25m ,1 stop,"₹ 11,944",Bengaluru - BLR,Kolkata - CCU,15/03/2022
+"Wed, 30 Mar",Vistara,BLR - CCU,07:55 - 18:05, 10h 10m ,2 stops,"₹ 14,522",Bengaluru - BLR,Kolkata - CCU,15/03/2022
+"Wed, 30 Mar",Air India,BLR - CCU,19:10 - 08:50, 13h 40m ,1 stop,"₹ 11,209",Bengaluru - BLR,Kolkata - CCU,15/03/2022
+"Wed, 30 Mar",Vistara,BLR - CCU,08:00 - 18:05, 10h 5m ,1 stop,"₹ 15,164",Bengaluru - BLR,Kolkata - CCU,15/03/2022
+"Wed, 30 Mar",Go First,BLR - CCU,17:15 - 08:35, 15h 20m ,1 stop,"₹ 10,300",Bengaluru - BLR,Kolkata - CCU,15/03/2022
+"Wed, 30 Mar",Vistara,BLR - CCU,07:00 - 18:05, 11h 5m ,1 stop,"₹ 15,164",Bengaluru - BLR,Kolkata - CCU,15/03/2022
+"Wed, 30 Mar",Air India,BLR - CCU,21:00 - 09:00, 12h ,1 stop,"₹ 14,198",Bengaluru - BLR,Kolkata - CCU,15/03/2022
+"Wed, 30 Mar",Vistara,BLR - CCU,07:55 - 19:55, 12h ,2 stops,"₹ 14,315",Bengaluru - BLR,Kolkata - CCU,15/03/2022
+"Wed, 30 Mar",Vistara,BLR - CCU,11:30 - 22:45, 11h 15m ,2 stops,"₹ 15,425",Bengaluru - BLR,Kolkata - CCU,15/03/2022
+"Wed, 30 Mar",Air India,BLR - CCU,08:20 - 19:10, 10h 50m ,2 stops,"₹ 16,234",Bengaluru - BLR,Kolkata - CCU,15/03/2022
+"Wed, 30 Mar",Vistara,BLR - CCU,19:55 - 08:20, 12h 25m ,2 stops,"₹ 14,757",Bengaluru - BLR,Kolkata - CCU,15/03/2022
+"Wed, 30 Mar",Vistara,BLR - CCU,19:55 - 09:40, 13h 45m ,2 stops,"₹ 13,528",Bengaluru - BLR,Kolkata - CCU,15/03/2022
+"Wed, 30 Mar",Air India,BLR - CCU,08:20 - 23:55, 15h 35m ,1 stop,"₹ 11,813",Bengaluru - BLR,Kolkata - CCU,15/03/2022
+"Wed, 30 Mar",Vistara,BLR - CCU,19:40 - 08:20, 12h 40m ,1 stop,"₹ 15,164",Bengaluru - BLR,Kolkata - CCU,15/03/2022
+"Wed, 30 Mar",Go First,BLR - CCU,08:35 - 21:55, 13h 20m ,1 stop,"₹ 14,454",Bengaluru - BLR,Kolkata - CCU,15/03/2022
+"Wed, 30 Mar",Vistara,BLR - CCU,09:45 - 19:55, 10h 10m ,2 stops,"₹ 17,908",Bengaluru - BLR,Kolkata - CCU,15/03/2022
+"Wed, 30 Mar",Vistara,BLR - CCU,09:30 - 19:35, 10h 5m ,3 stops,"₹ 18,105",Bengaluru - BLR,Kolkata - CCU,15/03/2022
+"Wed, 30 Mar",Go First,BLR - CCU,07:45 - 23:40, 15h 55m ,1 stop,"₹ 12,010",Bengaluru - BLR,Kolkata - CCU,15/03/2022
+"Wed, 30 Mar",AirAsia (India),BLR - CCU,10:55 - 00:50, 13h 55m ,2 stops,"₹ 14,653",Bengaluru - BLR,Kolkata - CCU,15/03/2022
+"Wed, 30 Mar",Air India,BLR - CCU,06:45 - 20:05, 16h 5m ,3 stops,"₹ 13,215",Bengaluru - BLR,Kolkata - CCU,15/03/2022
+"Wed, 30 Mar",Air India,BLR - CCU,10:00 - 23:55, 13h 55m ,2 stops,"₹ 16,643",Bengaluru - BLR,Kolkata - CCU,15/03/2022
+"Wed, 30 Mar",Air India,BLR - CCU,10:00 - 23:55, 13h 55m ,3 stops,"₹ 16,643",Bengaluru - BLR,Kolkata - CCU,15/03/2022
+"Wed, 30 Mar",Air India,BLR - CCU,08:20 - 22:25, 14h 5m ,3 stops,"₹ 16,597",Bengaluru - BLR,Kolkata - CCU,15/03/2022
+"Wed, 30 Mar",Air India,BLR - CCU,06:45 - 22:25, 15h 40m ,2 stops,"₹ 15,844",Bengaluru - BLR,Kolkata - CCU,15/03/2022
+"Wed, 30 Mar",Air India,BLR - CCU,17:00 - 08:50, 15h 50m ,2 stops,"₹ 15,791",Bengaluru - BLR,Kolkata - CCU,15/03/2022
+"Wed, 30 Mar",Air India,BLR - CCU,18:30 - 09:00, 14h 30m ,2 stops,"₹ 17,862",Bengaluru - BLR,Kolkata - CCU,15/03/2022
+"Wed, 30 Mar",AirAsia (India),BLR - CCU,05:40 - 00:50, 19h 10m ,2 stops,"₹ 14,970",Bengaluru - BLR,Kolkata - CCU,15/03/2022
+"Wed, 30 Mar",Air India,BLR - CCU,18:40 - 14:30, 19h 50m ,2 stops,"₹ 15,347",Bengaluru - BLR,Kolkata - CCU,15/03/2022
+"Wed, 30 Mar",Air India,BLR - CCU,18:30 - 14:30, 20h ,2 stops,"₹ 16,707",Bengaluru - BLR,Kolkata - CCU,15/03/2022
+"Wed, 30 Mar",Air India,BLR - CCU,18:40 - 20:05+1, 25h 25m ,4 stops,"₹ 11,285",Bengaluru - BLR,Kolkata - CCU,15/03/2022
+"Wed, 30 Mar",Air India,BLR - CCU,07:50 - 08:15+1, 24h 25m ,2 stops,"₹ 13,345",Bengaluru - BLR,Kolkata - CCU,15/03/2022
+"Wed, 30 Mar",Air India,BLR - CCU,21:00 - 21:15+1, 24h 15m ,2 stops,"₹ 13,573",Bengaluru - BLR,Kolkata - CCU,15/03/2022
+"Wed, 30 Mar",Vistara,BLR - CCU,21:40 - 19:35, 21h 55m ,3 stops,"₹ 17,255",Bengaluru - BLR,Kolkata - CCU,15/03/2022
+"Wed, 30 Mar",Air India,BLR - CCU,08:20 - 08:15, 23h 55m ,2 stops,"₹ 15,349",Bengaluru - BLR,Kolkata - CCU,15/03/2022
+"Wed, 30 Mar",Air India,BLR - CCU,18:35 - 19:10+1, 24h 35m ,2 stops,"₹ 15,436",Bengaluru - BLR,Kolkata - CCU,15/03/2022
+"Wed, 30 Mar",Air India,BLR - CCU,21:00 - 20:05, 25h 50m ,3 stops,"₹ 14,157",Bengaluru - BLR,Kolkata - CCU,15/03/2022
+"Wed, 30 Mar",Air India,BLR - CCU,09:00 - 09:00+1, 24h ,3 stops,"₹ 17,613",Bengaluru - BLR,Kolkata - CCU,15/03/2022
+"Wed, 30 Mar",Air India,BLR - CCU,18:35 - 22:25+1, 27h 50m ,2 stops,"₹ 14,974",Bengaluru - BLR,Kolkata - CCU,15/03/2022
+"Wed, 30 Mar",Hahn Air Systems,BLR - CCU,06:05 - 13:10, 7h 5m ,1 stop,"₹ 37,227",Bengaluru - BLR,Kolkata - CCU,15/03/2022
+"Wed, 30 Mar",Air India,BLR - CCU,09:00 - 14:30+1, 29h 30m ,3 stops,"₹ 14,038",Bengaluru - BLR,Kolkata - CCU,15/03/2022
+"Wed, 30 Mar",Alaska Seaplane,BLR - CCU,21:10 - 09:05, 11h 55m ,1 stop,"₹ 37,750",Bengaluru - BLR,Kolkata - CCU,15/03/2022
+"Wed, 30 Mar",Hahn Air Systems,BLR - CCU,05:45 - 20:50, 15h 5m ,1 stop,"₹ 34,965",Bengaluru - BLR,Kolkata - CCU,15/03/2022
+"Wed, 30 Mar",Hahn Air Systems,BLR - CCU,21:10 - 09:05, 11h 55m ,1 stop,"₹ 39,295",Bengaluru - BLR,Kolkata - CCU,15/03/2022
+"Wed, 30 Mar",Air India,BLR - CCU,09:00 - 22:25+1, 37h 25m ,3 stops,"₹ 14,033",Bengaluru - BLR,Kolkata - CCU,15/03/2022
+"Wed, 30 Mar",Hahn Air Systems,BLR - CCU,05:55 - 20:25, 14h 30m ,1 stop,"₹ 39,295",Bengaluru - BLR,Kolkata - CCU,15/03/2022
+"Wed, 30 Mar",Hahn Air Systems,BLR - CCU,06:10 - 23:35, 17h 25m ,1 stop,"₹ 37,306",Bengaluru - BLR,Kolkata - CCU,15/03/2022
+"Wed, 30 Mar",Hahn Air Systems,BLR - CCU,05:45 - 09:15+1, 27h 30m ,1 stop,"₹ 34,540",Bengaluru - BLR,Kolkata - CCU,15/03/2022
+"Wed, 30 Mar",Hahn Air Systems,BLR - CCU,06:10 - 20:45, 14h 35m ,2 stops,"₹ 49,438",Bengaluru - BLR,Kolkata - CCU,15/03/2022
+"Wed, 30 Mar",Emirates,BLR - CCU,04:25 - 19:15, 14h 50m ,1 stop,"₹ 49,519",Bengaluru - BLR,Kolkata - CCU,15/03/2022
+"Wed, 30 Mar",Hahn Air Systems,BLR - CCU,05:55 - 17:15, 11h 20m ,2 stops,"₹ 53,624",Bengaluru - BLR,Kolkata - CCU,15/03/2022
+"Wed, 30 Mar",Singapore Airlines,BLR - CCU,23:05 - 22:35, 23h 30m ,1 stop,"₹ 43,705",Bengaluru - BLR,Kolkata - CCU,15/03/2022
+"Wed, 30 Mar",Hahn Air Systems,BLR - CCU,06:10 - 20:25, 14h 15m ,2 stops,"₹ 53,730",Bengaluru - BLR,Kolkata - CCU,15/03/2022
+"Wed, 30 Mar",Hahn Air Systems,BLR - CCU,05:45 - 18:30, 12h 45m ,2 stops,"₹ 55,490",Bengaluru - BLR,Kolkata - CCU,15/03/2022
+"Wed, 30 Mar",Hahn Air Systems,BLR - CCU,19:30 - 09:05, 13h 35m ,2 stops,"₹ 55,097",Bengaluru - BLR,Kolkata - CCU,15/03/2022
+"Wed, 30 Mar",Hahn Air Systems,BLR - CCU,18:10 - 09:05, 14h 55m ,2 stops,"₹ 53,730",Bengaluru - BLR,Kolkata - CCU,15/03/2022
+"Wed, 30 Mar",Hahn Air Systems,BLR - CCU,09:15 - 09:15+1, 24h ,2 stops,"₹ 53,467",Bengaluru - BLR,Kolkata - CCU,15/03/2022
+"Wed, 30 Mar",Multiple Airlines,BLR - CCU,15:40 - 08:20, 16h 40m ,2 stops,"₹ 121,910",Bengaluru - BLR,Kolkata - CCU,15/03/2022

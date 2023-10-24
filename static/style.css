@@ -1,0 +1,61 @@
+
+            html {
+              font-family: 'Source Sans Pro', 'Open Sans', Roboto, 'HelveticaNeue-Light', 'Helvetica Neue Light', 'Helvetica Neue', 'Myriad Pro', 'Segoe UI', Myriad, Helvetica, 'Lucida Grande', 'DejaVu Sans Condensed', 'Liberation Sans', 'Nimbus Sans L', Tahoma, Geneva, Arial, sans-serif;
+            }
+            
+			body{
+    			background-image: url('https://aeronauticsonline.com/wp-content/uploads/2019/07/a220.jpg');
+    			background-repeat: no-repeat;
+    			background-size: 100% 100%;
+			}
+			
+			.header{
+				padding: 5px 120px;
+				width: 30%;
+				height: 70px;
+				background-color: dodgerblue;
+			}
+		
+			.border{
+				padding: 80px 50px;
+				width: 350px;
+				height: 400px;
+				border-radius: 0px;
+				background-color: #FFFAFA;
+			}
+
+			.btn {
+				padding: 10px 40px;
+				background-color: white;
+				background-color: dodgerblue;
+				color: white;
+				font-weight: bold;
+				border-radius: 0px;
+				width : 250px;
+			}
+
+			.textbox{
+				padding: 10px 10px;
+				width : 250px;
+				background-color: #F5F5F5;
+				text-color: black;
+				border: none;
+			}
+				
+			::placeholder {
+				color: #5F5F5F;
+				opacity: 0.9
+				font-weight: bold;
+				align-items:left;
+			}
+
+			.word{
+				color: black;
+				font-weight: bold;
+			}
+
+			.bottom{
+				color: black;
+				font-style: oblique;
+				font-size : 15px;
+			}

@@ -1,0 +1,51 @@
+﻿dep_date,airline,dep_time,duration,stops,arr_time,price,source,destination,dateofbooking
+"14 Mar, Mon",GO FIRST,  14:10,6h 35m,1 stop - DEL,  20:45,"₹5,102","Mumbai, BOM - Chatrapati Shivaji Airport, India","Hyderabad, HYD - Rajiv Gandhi International, India",13/03/2022
+"14 Mar, Mon",GO FIRST,  23:45,7h 55m,1 stop - DEL,  07:40,"₹5,102","Mumbai, BOM - Chatrapati Shivaji Airport, India","Hyderabad, HYD - Rajiv Gandhi International, India",13/03/2022
+"14 Mar, Mon",GO FIRST,  16:20,8h 5m,1 stop - GOI,  00:25,"₹5,102","Mumbai, BOM - Chatrapati Shivaji Airport, India","Hyderabad, HYD - Rajiv Gandhi International, India",13/03/2022
+"14 Mar, Mon",GO FIRST,  15:20,9h 5m,1 stop - GOI,  00:25,"₹5,102","Mumbai, BOM - Chatrapati Shivaji Airport, India","Hyderabad, HYD - Rajiv Gandhi International, India",13/03/2022
+"14 Mar, Mon",GO FIRST,  21:45,9h 55m,1 stop - DEL,  07:40,"₹5,102","Mumbai, BOM - Chatrapati Shivaji Airport, India","Hyderabad, HYD - Rajiv Gandhi International, India",13/03/2022
+"14 Mar, Mon",GO FIRST,  09:55,10h 50m,1 stop - DEL,  20:45,"₹5,102","Mumbai, BOM - Chatrapati Shivaji Airport, India","Hyderabad, HYD - Rajiv Gandhi International, India",13/03/2022
+"14 Mar, Mon",IndiGo,  18:45,1h 20m,Non stop,  20:05,"₹5,103","Mumbai, BOM - Chatrapati Shivaji Airport, India","Hyderabad, HYD - Rajiv Gandhi International, India",13/03/2022
+"14 Mar, Mon",IndiGo,  17:10,1h 25m,Non stop,  18:35,"₹5,103","Mumbai, BOM - Chatrapati Shivaji Airport, India","Hyderabad, HYD - Rajiv Gandhi International, India",13/03/2022
+"14 Mar, Mon",IndiGo,  19:55,1h 30m,Non stop,  21:25,"₹5,103","Mumbai, BOM - Chatrapati Shivaji Airport, India","Hyderabad, HYD - Rajiv Gandhi International, India",13/03/2022
+"14 Mar, Mon",Air Asia,  20:10,12h 35m,1 stop - BLR,  08:45,"₹5,104","Mumbai, BOM - Chatrapati Shivaji Airport, India","Hyderabad, HYD - Rajiv Gandhi International, India",13/03/2022
+"14 Mar, Mon",IndiGo,  12:45,1h 20m,Non stop,  14:05,"₹5,261","Mumbai, BOM - Chatrapati Shivaji Airport, India","Hyderabad, HYD - Rajiv Gandhi International, India",13/03/2022
+"14 Mar, Mon",IndiGo,  16:20,1h 20m,Non stop,  17:40,"₹5,471","Mumbai, BOM - Chatrapati Shivaji Airport, India","Hyderabad, HYD - Rajiv Gandhi International, India",13/03/2022
+"14 Mar, Mon",IndiGo,  10:45,1h 20m,Non stop,  12:05,"₹6,101","Mumbai, BOM - Chatrapati Shivaji Airport, India","Hyderabad, HYD - Rajiv Gandhi International, India",13/03/2022
+"14 Mar, Mon",Vistara,  19:20,1h 35m,Non stop,  20:55,"₹6,364","Mumbai, BOM - Chatrapati Shivaji Airport, India","Hyderabad, HYD - Rajiv Gandhi International, India",13/03/2022
+"14 Mar, Mon",Vistara,  06:20,1h 30m,Non stop,  07:50,"₹7,939","Mumbai, BOM - Chatrapati Shivaji Airport, India","Hyderabad, HYD - Rajiv Gandhi International, India",13/03/2022
+"14 Mar, Mon",IndiGo,  06:15,1h 20m,Non stop,  07:35,"₹8,096","Mumbai, BOM - Chatrapati Shivaji Airport, India","Hyderabad, HYD - Rajiv Gandhi International, India",13/03/2022
+"14 Mar, Mon",Vistara,  10:45,1h 30m,Non stop,  12:15,"₹8,464","Mumbai, BOM - Chatrapati Shivaji Airport, India","Hyderabad, HYD - Rajiv Gandhi International, India",13/03/2022
+"14 Mar, Mon",Air India,  21:30,14h 25m,1 stop - DEL,  11:55,"₹9,779","Mumbai, BOM - Chatrapati Shivaji Airport, India","Hyderabad, HYD - Rajiv Gandhi International, India",13/03/2022
+"14 Mar, Mon",Air India,  19:00,16h 55m,1 stop - DEL,  11:55,"₹9,779","Mumbai, BOM - Chatrapati Shivaji Airport, India","Hyderabad, HYD - Rajiv Gandhi International, India",13/03/2022
+"14 Mar, Mon",Air India,  18:00,17h 55m,1 stop - DEL,  11:55,"₹9,779","Mumbai, BOM - Chatrapati Shivaji Airport, India","Hyderabad, HYD - Rajiv Gandhi International, India",13/03/2022
+"14 Mar, Mon",Air India,  16:00,19h 55m,1 stop - DEL,  11:55,"₹9,779","Mumbai, BOM - Chatrapati Shivaji Airport, India","Hyderabad, HYD - Rajiv Gandhi International, India",13/03/2022
+"14 Mar, Mon",Air India,  10:00,1d 1h 55m,1 stop - DEL,  11:55,"₹9,779","Mumbai, BOM - Chatrapati Shivaji Airport, India","Hyderabad, HYD - Rajiv Gandhi International, India",13/03/2022
+"14 Mar, Mon",Air Asia,  13:05,4h 40m,1 stop - BLR,  17:45,"₹9,828","Mumbai, BOM - Chatrapati Shivaji Airport, India","Hyderabad, HYD - Rajiv Gandhi International, India",13/03/2022
+"14 Mar, Mon",Air India,  21:30,13h,1 stop - DEL,  10:30,"₹10,587","Mumbai, BOM - Chatrapati Shivaji Airport, India","Hyderabad, HYD - Rajiv Gandhi International, India",13/03/2022
+"14 Mar, Mon",Air India,  19:00,15h 30m,1 stop - DEL,  10:30,"₹10,587","Mumbai, BOM - Chatrapati Shivaji Airport, India","Hyderabad, HYD - Rajiv Gandhi International, India",13/03/2022
+"14 Mar, Mon",Air India,  18:00,16h 30m,1 stop - DEL,  10:30,"₹10,587","Mumbai, BOM - Chatrapati Shivaji Airport, India","Hyderabad, HYD - Rajiv Gandhi International, India",13/03/2022
+"14 Mar, Mon",Air India,  16:00,18h 30m,1 stop - DEL,  10:30,"₹10,587","Mumbai, BOM - Chatrapati Shivaji Airport, India","Hyderabad, HYD - Rajiv Gandhi International, India",13/03/2022
+"14 Mar, Mon",Air India,  10:00,1d 30m,1 stop - DEL,  10:30,"₹10,587","Mumbai, BOM - Chatrapati Shivaji Airport, India","Hyderabad, HYD - Rajiv Gandhi International, India",13/03/2022
+"14 Mar, Mon",Air India,  07:00,1d 3h 30m,1 stop - DEL,  10:30,"₹10,587","Mumbai, BOM - Chatrapati Shivaji Airport, India","Hyderabad, HYD - Rajiv Gandhi International, India",13/03/2022
+"14 Mar, Mon",Air India,  16:45,15h 5m,1 stop - BLR,  07:50,"₹10,983","Mumbai, BOM - Chatrapati Shivaji Airport, India","Hyderabad, HYD - Rajiv Gandhi International, India",13/03/2022
+"14 Mar, Mon",IndiGo,  08:45,8h 40m,1 stop - NAG,  17:25,"₹11,928","Mumbai, BOM - Chatrapati Shivaji Airport, India","Hyderabad, HYD - Rajiv Gandhi International, India",13/03/2022
+"14 Mar, Mon",Vistara,  21:00,23h 55m,1 stop - BLR,  20:55,"₹12,033","Mumbai, BOM - Chatrapati Shivaji Airport, India","Hyderabad, HYD - Rajiv Gandhi International, India",13/03/2022
+"14 Mar, Mon",Air Asia,  04:45,14h 30m,1 stop - GOI,  19:15,"₹12,557","Mumbai, BOM - Chatrapati Shivaji Airport, India","Hyderabad, HYD - Rajiv Gandhi International, India",13/03/2022
+"14 Mar, Mon",Vistara,  21:00,12h 5m,1 stop - BLR,  09:05,"₹12,768","Mumbai, BOM - Chatrapati Shivaji Airport, India","Hyderabad, HYD - Rajiv Gandhi International, India",13/03/2022
+"14 Mar, Mon",IndiGo,  21:50,3h 25m,1 stop - GOI,  01:15,"₹13,031","Mumbai, BOM - Chatrapati Shivaji Airport, India","Hyderabad, HYD - Rajiv Gandhi International, India",13/03/2022
+"14 Mar, Mon",Vistara,  21:00,23h 55m,1 stop - BLR,  20:55,"₹13,031","Mumbai, BOM - Chatrapati Shivaji Airport, India","Hyderabad, HYD - Rajiv Gandhi International, India",13/03/2022
+"14 Mar, Mon",Vistara,  22:45,13h 50m,1 stop - DEL,  12:35,"₹13,093","Mumbai, BOM - Chatrapati Shivaji Airport, India","Hyderabad, HYD - Rajiv Gandhi International, India",13/03/2022
+"14 Mar, Mon",Vistara,  21:55,14h 40m,1 stop - DEL,  12:35,"₹13,093","Mumbai, BOM - Chatrapati Shivaji Airport, India","Hyderabad, HYD - Rajiv Gandhi International, India",13/03/2022
+"14 Mar, Mon",Vistara,  20:55,15h 40m,1 stop - DEL,  12:35,"₹13,093","Mumbai, BOM - Chatrapati Shivaji Airport, India","Hyderabad, HYD - Rajiv Gandhi International, India",13/03/2022
+"14 Mar, Mon",Vistara,  19:45,16h 50m,1 stop - DEL,  12:35,"₹13,093","Mumbai, BOM - Chatrapati Shivaji Airport, India","Hyderabad, HYD - Rajiv Gandhi International, India",13/03/2022
+"14 Mar, Mon",Vistara,  18:30,18h 5m,1 stop - DEL,  12:35,"₹13,093","Mumbai, BOM - Chatrapati Shivaji Airport, India","Hyderabad, HYD - Rajiv Gandhi International, India",13/03/2022
+"14 Mar, Mon",Vistara,  17:35,19h,1 stop - DEL,  12:35,"₹13,093","Mumbai, BOM - Chatrapati Shivaji Airport, India","Hyderabad, HYD - Rajiv Gandhi International, India",13/03/2022
+"14 Mar, Mon",Vistara,  15:45,20h 50m,1 stop - DEL,  12:35,"₹13,093","Mumbai, BOM - Chatrapati Shivaji Airport, India","Hyderabad, HYD - Rajiv Gandhi International, India",13/03/2022
+"14 Mar, Mon",Vistara,  22:45,21h 10m,1 stop - DEL,  19:55,"₹13,093","Mumbai, BOM - Chatrapati Shivaji Airport, India","Hyderabad, HYD - Rajiv Gandhi International, India",13/03/2022
+"14 Mar, Mon",Vistara,  14:40,21h 55m,1 stop - DEL,  12:35,"₹13,093","Mumbai, BOM - Chatrapati Shivaji Airport, India","Hyderabad, HYD - Rajiv Gandhi International, India",13/03/2022
+"14 Mar, Mon",Vistara,  21:55,22h,1 stop - DEL,  19:55,"₹13,093","Mumbai, BOM - Chatrapati Shivaji Airport, India","Hyderabad, HYD - Rajiv Gandhi International, India",13/03/2022
+"14 Mar, Mon",Vistara,  20:55,23h,1 stop - DEL,  19:55,"₹13,093","Mumbai, BOM - Chatrapati Shivaji Airport, India","Hyderabad, HYD - Rajiv Gandhi International, India",13/03/2022
+"14 Mar, Mon",Vistara,  12:25,1d 10m,1 stop - DEL,  12:35,"₹13,093","Mumbai, BOM - Chatrapati Shivaji Airport, India","Hyderabad, HYD - Rajiv Gandhi International, India",13/03/2022
+"14 Mar, Mon",Vistara,  19:45,1d 10m,1 stop - DEL,  19:55,"₹13,093","Mumbai, BOM - Chatrapati Shivaji Airport, India","Hyderabad, HYD - Rajiv Gandhi International, India",13/03/2022
+"14 Mar, Mon",Vistara,  11:55,1d 40m,1 stop - DEL,  12:35,"₹13,093","Mumbai, BOM - Chatrapati Shivaji Airport, India","Hyderabad, HYD - Rajiv Gandhi International, India",13/03/2022

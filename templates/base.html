@@ -1,0 +1,44 @@
+
+<html>
+<head>
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='header.css') }}">
+    <script type="text/javascript" src="https://code.jquery.com/jquery-1.7.2.min.js"></script>
+    {% if title %}
+        <title>Flight Fares - {{ title }}</title>
+    {% else %}
+        <title>Flight Fares</title>
+    {% endif %}
+</head>
+<body>
+    <header>
+      <h1><a href='{{ url_for('home') }}'>Flight Fares</a></h1>
+      <nav>
+        {% if session['loggedin'] %}
+            <a href='{{ url_for('logout') }}'>Logout</a>
+            <a href='{{ url_for('account') }}' class='active'>Profile</a>
+        {% else %}
+            <a href='{{ url_for('login') }}'>Login</a>
+            <a href='{{ url_for('register') }}' class='active'>Register</a>
+        {% endif %}
+      </nav>
+    </header>
+    <main role="main" class="container">
+      <div class="row">
+        <div class="col-md-8">
+          {% with messages = get_flashed_messages(with_categories=true) %}
+            {% if messages %}
+              {% for category, message in messages %}
+                <div class="alert alert-{{ category }}">
+                  {{ msg }}
+                </div>
+              {% endfor %}
+            {% endif %}
+          {% endwith %}
+          {% block content %}{% endblock %}
+        </div>
+      </div>
+    </main>
+   </body>
+</html>

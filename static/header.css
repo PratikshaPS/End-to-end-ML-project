@@ -1,0 +1,222 @@
+* {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  font-kerning: auto;
+}
+html {
+  font-size: 10pt;
+  line-height: 1.4;
+  font-weight: 400;
+  font-family: 'Source Sans Pro', 'Open Sans', Roboto, 'HelveticaNeue-Light', 'Helvetica Neue Light', 'Helvetica Neue', 'Myriad Pro', 'Segoe UI', Myriad, Helvetica, 'Lucida Grande', 'DejaVu Sans Condensed', 'Liberation Sans', 'Nimbus Sans L', Tahoma, Geneva, Arial, sans-serif;
+  -webkit-text-size-adjust: 100%;
+}
+body{
+    background-color : #F5F5F5;
+    background-image : url('C:\Users\prati\Project\static\profile_pics\plane.jpeg')
+}
+header {
+  width: 100%;
+  padding: 1em;
+  font-size: 140%;
+  position: absolute;
+  top: 0vh;
+  left: 0;
+  transition: opacity .2s ease-in-out;
+  text-align: center;
+  background-color : #02b1ff;
+}
+header h1 {
+  font-weight: 600;
+  display: inline;
+  margin: 0;
+  padding: 0;
+  font-size: inherit;
+}
+
+nav a {
+  display: inline-block !important;
+  outline: none !important;
+  text-decoration: none !important;
+  opacity: .7 !important;
+  padding: 0 .5em !important;
+  color: black !important;
+  transition: opacity .2s ease-in-out !important;
+}
+
+nav a:hover,
+nav a:focus,
+nav a:active {
+  opacity: 1;
+  border-bottom : 2px solid black !important;
+}
+
+@media (min-width: 500px) {
+  header {
+    text-align: left;
+  }
+  nav {
+    float: right;
+  }
+}
+
+.navbar-brand{
+    font-size : 18;
+    text-align : center !important;
+    top : 0px;
+}
+
+.container{
+    background-color : white;
+    width : 60%;
+    height : 500px;
+    position : absolute;
+    top : 12%;
+    left : 20%;
+}
+
+.left{
+    background-color : transparent;
+    width : 300px;
+    height : 300px;
+    position : absolute;
+    margin-left : 60px;
+    top : 70px;
+}
+
+.right{
+    background-color : transparent;
+    padding : 20px;
+    position : absolute;
+    margin-left : 10px;
+    width : 70%;
+    left: 70%;
+    top : 60px;
+}             
+			.btn {
+				padding: 10px 40px;
+				background-color: white;
+				background-color: dodgerblue;
+				color: white;
+				font-weight: bold;
+				border-radius: 0px;
+				width : 250px;
+			}
+
+			.textbox{
+				padding: 10px 10px;
+				width : 250px;
+				background-color: #F5F5F5;
+				text-color: black;
+				border: none;
+			}
+				
+			::placeholder {
+				color: #5F5F5F;
+				opacity: 0.9
+				font-weight: bold;
+				align-items:left;
+			}
+
+        
+/* And here's the magic! EQCSS.js required */
+@element html, body and (min-scroll-y: 100vh) {
+  header {
+    position: fixed;
+    top: 0;
+    background: white;
+    box-shadow: rgba(0,0,0,.05) 0 3px 15px;
+  }
+}
+
+.card {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  max-width: 300px;
+  margin: auto;
+  text-align: center;
+}
+
+.title {
+  color: grey;
+  font-size: 18px;
+}
+
+button {
+  border: none;
+  outline: 0;
+  display: inline-block;
+  padding: 8px;
+  color: white;
+  background-color: #000;
+  text-align: center;
+  cursor: pointer;
+  width: 100%;
+  font-size: 18px;
+  position : relative;
+  align-content : center;
+}
+
+
+
+.row_1{
+    background-color : white;
+    width : 890px;
+    height : 100px;
+    position : absolute;
+    margin : 0px;
+    top : 50px;
+    padding : 20px;
+}
+
+.row_2{
+    background-color : white;
+    width : 890px;
+    height : 100px;
+    position : relative;
+    margin : 0px;
+    top : 200px;
+    padding : 20px;
+}
+
+.row_3{
+    background-color : white;
+    width : 890px;
+    height : 100px;
+    position : relative;
+    margin : 0px;
+    top : 250px;
+    padding : 20px;
+}
+.card_1{
+    background-color : white;
+    width : 250px;
+    height : 90px;
+    position : absolute;
+    margin-left : 5px;
+    padding : 20px;
+    box-shadow: 0px 0px 5px 5px #F0F0F0;
+}
+.card_2{
+    background-color : white;
+    width : 250px;
+    height : 90px;
+    position : absolute;
+    margin-left : 295px;
+    padding : 20px;
+    box-shadow: 0px 0px 5px 5px #F0F0F0;
+}
+.card_3{
+    background-color : white;
+    width : 250px;
+    height : 90px;
+    position : absolute;
+    margin-left : 580px;
+    padding : 20px;
+    box-shadow: 0px 0px 5px 5px #F0F0F0;
+}
+.navbar-header a{
+    color : black;
+}

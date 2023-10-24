@@ -1,0 +1,42 @@
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<title> Profile </title>
+		<link rel="stylesheet" href="{{ url_for('static', filename='header.css') }}">
+	</head>
+	<body>
+        <header>
+        <br>
+        <br><nav>
+          <h1><a href='index.html'>Flight Fares</a></h1>
+          </nav>
+          <nav>
+            <a href='{{ url_for('logout') }}'>Logout</a>
+            <a href='#' class='active'>Profile</a>
+          </nav>
+        </header>
+		<div align="center" class="container">
+    		<form action="{{ url_for('account') }}" method="POST">
+        		<div align="center" class="left">
+            		<img src="{{url_for('static',filename = 'static/profile_pics/user.png')}}" height="300px" width="300px"><br/>
+            		<input type="file" id="file", name="Choose to update"> <br/>
+                		{{ session.username }}
+        		</div>
+        		<div align="center" class="right">
+        			<div class="header">
+        			<br>
+        			<br>
+        				<h1 class="word">Account info</h1>
+        			</div>
+            			{{ msg }}
+        			</br>
+        			<h2 class="word">
+        				<input id="username" name="username" type="text" value="Enter your Username" class="textbox"/></br></br>
+        				<input id="email" name="email" type="text" placeholder="Enter Your Email" class="textbox"/></br></br>
+        				<input type="submit" class="btn" value="Update Profile"></br></br>
+        			</h2>
+        		</div>
+        	</form>
+		</div>
+	</body>
+</html>

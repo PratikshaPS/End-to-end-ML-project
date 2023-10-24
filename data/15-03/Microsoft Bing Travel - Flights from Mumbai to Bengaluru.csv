@@ -1,0 +1,140 @@
+﻿dep_date,airline,station,time,duration,stops,price,source,destination,dateofbooking
+"Wed, 16 Mar",Go First,BOM - BLR,06:05 - 07:40, 1h 35m ,Non-stop,"₹ 5,476",Mumbai - BOM,Bengaluru - BLR,15/03/2022
+"Wed, 16 Mar",Go First,BOM - BLR,16:40 - 18:15, 1h 35m ,Non-stop,"₹ 5,663",Mumbai - BOM,Bengaluru - BLR,15/03/2022
+"Wed, 16 Mar",Go First,BOM - BLR,22:50 - 00:35, 1h 45m ,Non-stop,"₹ 5,476",Mumbai - BOM,Bengaluru - BLR,15/03/2022
+"Wed, 16 Mar",Go First,BOM - BLR,21:30 - 23:15, 1h 45m ,Non-stop,"₹ 5,476",Mumbai - BOM,Bengaluru - BLR,15/03/2022
+"Wed, 16 Mar",IndiGo,BOM - BLR,01:15 - 02:50, 1h 35m ,Non-stop,"₹ 6,257",Mumbai - BOM,Bengaluru - BLR,15/03/2022
+"Wed, 16 Mar",FlexFlight,BOM - BLR,16:40 - 18:15, 1h 35m ,Non-stop,"₹ 6,504",Mumbai - BOM,Bengaluru - BLR,15/03/2022
+"Wed, 16 Mar",~Z,BOM - BLR,06:05 - 07:40, 1h 35m ,Non-stop,"₹ 6,504",Mumbai - BOM,Bengaluru - BLR,15/03/2022
+"Wed, 16 Mar",IndiGo,BOM - BLR,04:50 - 06:40, 1h 50m ,Non-stop,"₹ 6,257",Mumbai - BOM,Bengaluru - BLR,15/03/2022
+"Wed, 16 Mar",AirAsia (India),BOM - BLR,13:05 - 14:45, 1h 40m ,Non-stop,"₹ 6,573",Mumbai - BOM,Bengaluru - BLR,15/03/2022
+"Wed, 16 Mar",FlexFlight,BOM - BLR,22:50 - 00:35, 1h 45m ,Non-stop,"₹ 6,504",Mumbai - BOM,Bengaluru - BLR,15/03/2022
+"Wed, 16 Mar",AirAsia (India),BOM - BLR,21:20 - 23:15, 1h 55m ,Non-stop,"₹ 6,257",Mumbai - BOM,Bengaluru - BLR,15/03/2022
+"Wed, 16 Mar",Air India,BOM - BLR,16:45 - 18:30, 1h 45m ,Non-stop,"₹ 7,115",Mumbai - BOM,Bengaluru - BLR,15/03/2022
+"Wed, 16 Mar",IndiGo,BOM - BLR,22:15 - 00:05, 1h 50m ,Non-stop,"₹ 6,992",Mumbai - BOM,Bengaluru - BLR,15/03/2022
+"Wed, 16 Mar",Vistara,BOM - BLR,06:00 - 07:50, 1h 50m ,Non-stop,"₹ 7,158",Mumbai - BOM,Bengaluru - BLR,15/03/2022
+"Wed, 16 Mar",IndiGo,BOM - BLR,06:55 - 08:30, 1h 35m ,Non-stop,"₹ 7,622",Mumbai - BOM,Bengaluru - BLR,15/03/2022
+"Wed, 16 Mar",AirAsia (India),BOM - BLR,20:10 - 22:05, 1h 55m ,Non-stop,"₹ 7,203",Mumbai - BOM,Bengaluru - BLR,15/03/2022
+"Wed, 16 Mar",IndiGo,BOM - BLR,18:50 - 20:35, 1h 45m ,Non-stop,"₹ 7,622",Mumbai - BOM,Bengaluru - BLR,15/03/2022
+"Wed, 16 Mar",IndiGo,BOM - BLR,14:20 - 16:05, 1h 45m ,Non-stop,"₹ 7,622",Mumbai - BOM,Bengaluru - BLR,15/03/2022
+"Wed, 16 Mar",Vistara,BOM - BLR,16:00 - 17:45, 1h 45m ,Non-stop,"₹ 7,683",Mumbai - BOM,Bengaluru - BLR,15/03/2022
+"Wed, 16 Mar",IndiGo,BOM - BLR,17:10 - 18:55, 1h 45m ,Non-stop,"₹ 7,937",Mumbai - BOM,Bengaluru - BLR,15/03/2022
+"Wed, 16 Mar",IndiGo,BOM - BLR,20:30 - 22:15, 1h 45m ,Non-stop,"₹ 7,938",Mumbai - BOM,Bengaluru - BLR,15/03/2022
+"Wed, 16 Mar",IndiGo,BOM - BLR,08:30 - 10:05, 1h 35m ,Non-stop,"₹ 8,252",Mumbai - BOM,Bengaluru - BLR,15/03/2022
+"Wed, 16 Mar",Vistara,BOM - BLR,21:00 - 22:50, 1h 50m ,Non-stop,"₹ 7,831",Mumbai - BOM,Bengaluru - BLR,15/03/2022
+"Wed, 16 Mar",Vistara,BOM - BLR,17:30 - 19:15, 1h 45m ,Non-stop,"₹ 8,208",Mumbai - BOM,Bengaluru - BLR,15/03/2022
+"Wed, 16 Mar",IndiGo,BOM - BLR,09:30 - 11:20, 1h 50m ,Non-stop,"₹ 8,252",Mumbai - BOM,Bengaluru - BLR,15/03/2022
+"Wed, 16 Mar",AirAsia (India),BOM - BLR,04:45 - 08:40, 3h 55m ,1 stop,"₹ 6,257",Mumbai - BOM,Bengaluru - BLR,15/03/2022
+"Wed, 16 Mar",IndiGo,BOM - BLR,16:20 - 20:45, 4h 25m ,1 stop,"₹ 6,657",Mumbai - BOM,Bengaluru - BLR,15/03/2022
+"Wed, 16 Mar",IndiGo,BOM - BLR,18:45 - 22:50, 4h 5m ,1 stop,"₹ 7,454",Mumbai - BOM,Bengaluru - BLR,15/03/2022
+"Wed, 16 Mar",Vistara,BOM - BLR,19:00 - 20:45, 1h 45m ,Non-stop,"₹ 12,093",Mumbai - BOM,Bengaluru - BLR,15/03/2022
+"Wed, 16 Mar",IndiGo,BOM - BLR,19:55 - 01:05, 5h 10m ,1 stop,"₹ 7,056",Mumbai - BOM,Bengaluru - BLR,15/03/2022
+"Wed, 16 Mar",IndiGo,BOM - BLR,18:45 - 22:30, 3h 45m ,1 stop,"₹ 9,848",Mumbai - BOM,Bengaluru - BLR,15/03/2022
+"Wed, 16 Mar",Go First,BOM - BLR,05:30 - 11:50, 6h 20m ,1 stop,"₹ 5,663",Mumbai - BOM,Bengaluru - BLR,15/03/2022
+"Wed, 16 Mar",Vistara,BOM - BLR,09:05 - 10:45, 1h 40m ,Non-stop,"₹ 14,088",Mumbai - BOM,Bengaluru - BLR,15/03/2022
+"Wed, 16 Mar",IndiGo,BOM - BLR,10:30 - 15:40, 5h 10m ,1 stop,"₹ 8,050",Mumbai - BOM,Bengaluru - BLR,15/03/2022
+"Wed, 16 Mar",IndiGo,BOM - BLR,13:45 - 19:00, 5h 15m ,1 stop,"₹ 8,050",Mumbai - BOM,Bengaluru - BLR,15/03/2022
+"Wed, 16 Mar",Vistara,BOM - BLR,07:00 - 08:50, 1h 50m ,Non-stop,"₹ 14,088",Mumbai - BOM,Bengaluru - BLR,15/03/2022
+"Wed, 16 Mar",IndiGo,BOM - BLR,05:15 - 09:15, 4h ,1 stop,"₹ 10,405",Mumbai - BOM,Bengaluru - BLR,15/03/2022
+"Wed, 16 Mar",IndiGo,BOM - BLR,16:20 - 22:50, 6h 30m ,1 stop,"₹ 6,257",Mumbai - BOM,Bengaluru - BLR,15/03/2022
+"Wed, 16 Mar",IndiGo,BOM - BLR,17:10 - 22:50, 5h 40m ,1 stop,"₹ 7,755",Mumbai - BOM,Bengaluru - BLR,15/03/2022
+"Wed, 16 Mar",IndiGo,BOM - BLR,12:45 - 18:30, 5h 45m ,1 stop,"₹ 7,853",Mumbai - BOM,Bengaluru - BLR,15/03/2022
+"Wed, 16 Mar",IndiGo,BOM - BLR,12:45 - 19:35, 6h 50m ,1 stop,"₹ 6,258",Mumbai - BOM,Bengaluru - BLR,15/03/2022
+"Wed, 16 Mar",Go First,BOM - BLR,11:30 - 15:10, 3h 40m ,1 stop,"₹ 11,809",Mumbai - BOM,Bengaluru - BLR,15/03/2022
+"Wed, 16 Mar",IndiGo,BOM - BLR,23:45 - 03:45, 4h ,1 stop,"₹ 11,810",Mumbai - BOM,Bengaluru - BLR,15/03/2022
+"Wed, 16 Mar",AirAsia (India),BOM - BLR,14:55 - 22:25, 7h 30m ,1 stop,"₹ 6,257",Mumbai - BOM,Bengaluru - BLR,15/03/2022
+"Wed, 16 Mar",Go First,BOM - BLR,23:45 - 08:40, 8h 55m ,1 stop,"₹ 5,663",Mumbai - BOM,Bengaluru - BLR,15/03/2022
+"Wed, 16 Mar",Air India,BOM - BLR,16:45 - 00:10, 7h 25m ,1 stop,"₹ 8,806",Mumbai - BOM,Bengaluru - BLR,15/03/2022
+"Wed, 16 Mar",IndiGo,BOM - BLR,14:25 - 22:30, 8h 5m ,1 stop,"₹ 7,853",Mumbai - BOM,Bengaluru - BLR,15/03/2022
+"Wed, 16 Mar",AirAsia (India),BOM - BLR,23:35 - 08:40, 9h 5m ,1 stop,"₹ 6,258",Mumbai - BOM,Bengaluru - BLR,15/03/2022
+"Wed, 16 Mar",Go First,BOM - BLR,19:15 - 23:40, 4h 25m ,1 stop,"₹ 14,666",Mumbai - BOM,Bengaluru - BLR,15/03/2022
+"Wed, 16 Mar",IndiGo,BOM - BLR,10:45 - 19:35, 8h 50m ,1 stop,"₹ 7,055",Mumbai - BOM,Bengaluru - BLR,15/03/2022
+"Wed, 16 Mar",IndiGo,BOM - BLR,15:15 - 21:35, 6h 20m ,1 stop,"₹ 11,444",Mumbai - BOM,Bengaluru - BLR,15/03/2022
+"Wed, 16 Mar",IndiGo,BOM - BLR,14:05 - 20:05, 6h ,1 stop,"₹ 12,295",Mumbai - BOM,Bengaluru - BLR,15/03/2022
+"Wed, 16 Mar",IndiGo,BOM - BLR,21:50 - 03:45, 5h 55m ,1 stop,"₹ 12,596",Mumbai - BOM,Bengaluru - BLR,15/03/2022
+"Wed, 16 Mar",IndiGo,BOM - BLR,11:30 - 16:00, 4h 30m ,1 stop,"₹ 15,235",Mumbai - BOM,Bengaluru - BLR,15/03/2022
+"Wed, 16 Mar",IndiGo,BOM - BLR,04:35 - 14:10, 9h 35m ,1 stop,"₹ 6,656",Mumbai - BOM,Bengaluru - BLR,15/03/2022
+"Wed, 16 Mar",IndiGo,BOM - BLR,16:55 - 23:05, 6h 10m ,1 stop,"₹ 12,715",Mumbai - BOM,Bengaluru - BLR,15/03/2022
+"Wed, 16 Mar",Go First,BOM - BLR,10:35 - 20:55, 10h 20m ,1 stop,"₹ 5,663",Mumbai - BOM,Bengaluru - BLR,15/03/2022
+"Wed, 16 Mar",Vistara,BOM - BLR,06:00 - 11:50, 5h 50m ,1 stop,"₹ 13,567",Mumbai - BOM,Bengaluru - BLR,15/03/2022
+"Wed, 16 Mar",IndiGo,BOM - BLR,16:25 - 22:00, 5h 35m ,1 stop,"₹ 14,237",Mumbai - BOM,Bengaluru - BLR,15/03/2022
+"Wed, 16 Mar",FlexFlight,BOM - BLR,19:15 - 23:40, 4h 25m ,1 stop,"₹ 16,696",Mumbai - BOM,Bengaluru - BLR,15/03/2022
+"Wed, 16 Mar",Air India,BOM - BLR,09:30 - 11:10, 1h 40m ,Non-stop,"₹ 22,071",Mumbai - BOM,Bengaluru - BLR,15/03/2022
+"Wed, 16 Mar",Vistara,BOM - BLR,10:45 - 19:30, 8h 45m ,1 stop,"₹ 10,263",Mumbai - BOM,Bengaluru - BLR,15/03/2022
+"Wed, 16 Mar",Go First,BOM - BLR,05:20 - 09:45, 4h 25m ,1 stop,"₹ 17,833",Mumbai - BOM,Bengaluru - BLR,15/03/2022
+"Wed, 16 Mar",FlexFlight,BOM - BLR,05:30 - 11:50, 6h 20m ,1 stop,"₹ 15,094",Mumbai - BOM,Bengaluru - BLR,15/03/2022
+"Wed, 16 Mar",Multiple Airlines,BOM - BLR,15:15 - 20:55, 5h 40m ,1 stop,"₹ 16,603",Mumbai - BOM,Bengaluru - BLR,15/03/2022
+"Wed, 16 Mar",Vistara,BOM - BLR,11:55 - 18:50, 6h 55m ,1 stop,"₹ 14,518",Mumbai - BOM,Bengaluru - BLR,15/03/2022
+"Wed, 16 Mar",Air India,BOM - BLR,13:25 - 22:45, 9h 20m ,1 stop,"₹ 10,391",Mumbai - BOM,Bengaluru - BLR,15/03/2022
+"Wed, 16 Mar",Air India,BOM - BLR,07:05 - 16:15, 9h 10m ,2 stops,"₹ 11,150",Mumbai - BOM,Bengaluru - BLR,15/03/2022
+"Wed, 16 Mar",Vistara,BOM - BLR,15:45 - 22:40, 6h 55m ,1 stop,"₹ 15,324",Mumbai - BOM,Bengaluru - BLR,15/03/2022
+"Wed, 16 Mar",Go First,BOM - BLR,04:55 - 15:10, 10h 15m ,1 stop,"₹ 9,572",Mumbai - BOM,Bengaluru - BLR,15/03/2022
+"Wed, 16 Mar",IndiGo,BOM - BLR,14:05 - 23:05, 9h ,1 stop,"₹ 12,204",Mumbai - BOM,Bengaluru - BLR,15/03/2022
+"Wed, 16 Mar",FlexFlight,BOM - BLR,05:20 - 09:45, 4h 25m ,1 stop,"₹ 20,177",Mumbai - BOM,Bengaluru - BLR,15/03/2022
+"Wed, 16 Mar",SpiceJet,BOM - BLR,23:45 - 09:00, 9h 15m ,1 stop,"₹ 11,886",Mumbai - BOM,Bengaluru - BLR,15/03/2022
+"Wed, 16 Mar",Air India,BOM - BLR,15:35 - 00:10, 8h 35m ,2 stops,"₹ 13,259",Mumbai - BOM,Bengaluru - BLR,15/03/2022
+"Wed, 16 Mar",Go First,BOM - BLR,12:30 - 19:15, 6h 45m ,1 stop,"₹ 17,030",Mumbai - BOM,Bengaluru - BLR,15/03/2022
+"Wed, 16 Mar",Vistara,BOM - BLR,14:40 - 22:40, 8h ,1 stop,"₹ 15,323",Mumbai - BOM,Bengaluru - BLR,15/03/2022
+"Wed, 16 Mar",Go First,BOM - BLR,13:30 - 22:20, 8h 50m ,1 stop,"₹ 13,884",Mumbai - BOM,Bengaluru - BLR,15/03/2022
+"Wed, 16 Mar",FlexFlight,BOM - BLR,12:30 - 19:15, 6h 45m ,1 stop,"₹ 17,564",Mumbai - BOM,Bengaluru - BLR,15/03/2022
+"Wed, 16 Mar",Vistara,BOM - BLR,22:45 - 08:40, 9h 55m ,1 stop,"₹ 13,567",Mumbai - BOM,Bengaluru - BLR,15/03/2022
+"Wed, 16 Mar",Vistara,BOM - BLR,06:30 - 17:00, 10h 30m ,1 stop,"₹ 13,715",Mumbai - BOM,Bengaluru - BLR,15/03/2022
+"Wed, 16 Mar",Vistara,BOM - BLR,12:25 - 18:50, 6h 25m ,1 stop,"₹ 20,957",Mumbai - BOM,Bengaluru - BLR,15/03/2022
+"Wed, 16 Mar",AirAsia (India),BOM - BLR,07:20 - 18:45, 11h 25m ,1 stop,"₹ 12,735",Mumbai - BOM,Bengaluru - BLR,15/03/2022
+"Wed, 16 Mar",Vistara,BOM - BLR,08:45 - 17:00, 8h 15m ,1 stop,"₹ 18,436",Mumbai - BOM,Bengaluru - BLR,15/03/2022
+"Wed, 16 Mar",FlexFlight,BOM - BLR,05:45 - 16:50, 11h 5m ,1 stop,"₹ 14,017",Mumbai - BOM,Bengaluru - BLR,15/03/2022
+"Wed, 16 Mar",Vistara,BOM - BLR,19:20 - 08:50, 13h 30m ,1 stop,"₹ 10,263",Mumbai - BOM,Bengaluru - BLR,15/03/2022
+"Wed, 16 Mar",Vistara,BOM - BLR,11:25 - 16:00, 4h 35m ,1 stop,"₹ 25,703",Mumbai - BOM,Bengaluru - BLR,15/03/2022
+"Wed, 16 Mar",FlexFlight,BOM - BLR,22:50 - 09:45, 10h 55m ,1 stop,"₹ 14,956",Mumbai - BOM,Bengaluru - BLR,15/03/2022
+"Wed, 16 Mar",Vistara,BOM - BLR,10:25 - 17:00, 6h 35m ,1 stop,"₹ 23,897",Mumbai - BOM,Bengaluru - BLR,15/03/2022
+"Wed, 16 Mar",Vistara,BOM - BLR,12:15 - 20:25, 8h 10m ,2 stops,"₹ 22,393",Mumbai - BOM,Bengaluru - BLR,15/03/2022
+"Wed, 16 Mar",Vistara,BOM - BLR,12:15 - 22:40, 10h 25m ,2 stops,"₹ 18,640",Mumbai - BOM,Bengaluru - BLR,15/03/2022
+"Wed, 16 Mar",Vistara,BOM - BLR,12:15 - 23:20, 11h 5m ,2 stops,"₹ 17,837",Mumbai - BOM,Bengaluru - BLR,15/03/2022
+"Wed, 16 Mar",AirAsia (India),BOM - BLR,07:20 - 23:35, 16h 15m ,1 stop,"₹ 9,200",Mumbai - BOM,Bengaluru - BLR,15/03/2022
+"Wed, 16 Mar",Air India,BOM - BLR,05:20 - 14:55, 9h 35m ,3 stops,"₹ 21,115",Mumbai - BOM,Bengaluru - BLR,15/03/2022
+"Wed, 16 Mar",Air India,BOM - BLR,21:30 - 08:55, 11h 25m ,1 stop,"₹ 17,946",Mumbai - BOM,Bengaluru - BLR,15/03/2022
+"Wed, 16 Mar",Go First,BOM - BLR,19:15 - 09:45, 14h 30m ,1 stop,"₹ 13,536",Mumbai - BOM,Bengaluru - BLR,15/03/2022
+"Wed, 16 Mar",Vistara,BOM - BLR,17:35 - 23:20, 5h 45m ,1 stop,"₹ 28,938",Mumbai - BOM,Bengaluru - BLR,15/03/2022
+"Wed, 16 Mar",Air India,BOM - BLR,07:05 - 00:10, 17h 5m ,2 stops,"₹ 9,539",Mumbai - BOM,Bengaluru - BLR,15/03/2022
+"Wed, 16 Mar",Go First,BOM - BLR,05:45 - 16:50, 11h 5m ,1 stop,"₹ 21,726",Mumbai - BOM,Bengaluru - BLR,15/03/2022
+"Wed, 16 Mar",Vistara,BOM - BLR,06:30 - 19:30, 13h ,2 stops,"₹ 19,600",Mumbai - BOM,Bengaluru - BLR,15/03/2022
+"Wed, 16 Mar",Vistara,BOM - BLR,06:00 - 23:20, 17h 20m ,1 stop,"₹ 12,764",Mumbai - BOM,Bengaluru - BLR,15/03/2022
+"Wed, 16 Mar",Air India,BOM - BLR,21:00 - 08:55, 11h 55m ,2 stops,"₹ 22,342",Mumbai - BOM,Bengaluru - BLR,15/03/2022
+"Wed, 16 Mar",AirAsia (India),BOM - BLR,04:45 - 20:55, 16h 10m ,2 stops,"₹ 15,396",Mumbai - BOM,Bengaluru - BLR,15/03/2022
+"Wed, 16 Mar",SpiceJet,BOM - BLR,15:30 - 09:00, 17h 30m ,1 stop,"₹ 13,647",Mumbai - BOM,Bengaluru - BLR,15/03/2022
+"Wed, 16 Mar",Air India,BOM - BLR,06:10 - 20:50, 14h 40m ,1 stop,"₹ 18,625",Mumbai - BOM,Bengaluru - BLR,15/03/2022
+"Wed, 16 Mar",Air India,BOM - BLR,16:45 - 11:40, 18h 55m ,2 stops,"₹ 12,523",Mumbai - BOM,Bengaluru - BLR,15/03/2022
+"Wed, 16 Mar",AirAsia (India),BOM - BLR,21:45 - 10:40, 12h 55m ,1 stop,"₹ 23,026",Mumbai - BOM,Bengaluru - BLR,15/03/2022
+"Wed, 16 Mar",Vistara,BOM - BLR,06:00 - 16:00, 10h ,2 stops,"₹ 28,566",Mumbai - BOM,Bengaluru - BLR,15/03/2022
+"Wed, 16 Mar",Air India,BOM - BLR,08:10 - 00:10, 16h ,2 stops,"₹ 19,998",Mumbai - BOM,Bengaluru - BLR,15/03/2022
+"Wed, 16 Mar",Air India,BOM - BLR,07:00 - 16:15, 9h 15m ,1 stop,"₹ 32,080",Mumbai - BOM,Bengaluru - BLR,15/03/2022
+"Wed, 16 Mar",Air India,BOM - BLR,06:10 - 01:50, 19h 40m ,1 stop,"₹ 14,853",Mumbai - BOM,Bengaluru - BLR,15/03/2022
+"Wed, 16 Mar",Air India,BOM - BLR,15:35 - 11:40, 20h 5m ,3 stops,"₹ 14,140",Mumbai - BOM,Bengaluru - BLR,15/03/2022
+"Wed, 16 Mar",Air India,BOM - BLR,10:00 - 16:15, 6h 15m ,1 stop,"₹ 38,653",Mumbai - BOM,Bengaluru - BLR,15/03/2022
+"Wed, 16 Mar",Vistara,BOM - BLR,08:45 - 19:30, 10h 45m ,2 stops,"₹ 31,263",Mumbai - BOM,Bengaluru - BLR,15/03/2022
+"Wed, 16 Mar",Vistara,BOM - BLR,07:30 - 19:30, 12h ,2 stops,"₹ 29,189",Mumbai - BOM,Bengaluru - BLR,15/03/2022
+"Wed, 16 Mar",SpiceJet,BOM - BLR,11:35 - 09:00, 21h 25m ,1 stop,"₹ 13,647",Mumbai - BOM,Bengaluru - BLR,15/03/2022
+"Wed, 16 Mar",Air India,BOM - BLR,09:25 - 20:05, 10h 40m ,2 stops,"₹ 32,409",Mumbai - BOM,Bengaluru - BLR,15/03/2022
+"Wed, 16 Mar",Vistara,BOM - BLR,12:15 - 08:40, 20h 25m ,2 stops,"₹ 17,836",Mumbai - BOM,Bengaluru - BLR,15/03/2022
+"Wed, 16 Mar",Vistara,BOM - BLR,07:30 - 16:00, 8h 30m ,2 stops,"₹ 38,560",Mumbai - BOM,Bengaluru - BLR,15/03/2022
+"Wed, 16 Mar",Air India,BOM - BLR,08:15 - 20:05, 11h 50m ,2 stops,"₹ 33,237",Mumbai - BOM,Bengaluru - BLR,15/03/2022
+"Wed, 16 Mar",Vistara,BOM - BLR,10:25 - 19:30, 9h 5m ,2 stops,"₹ 38,608",Mumbai - BOM,Bengaluru - BLR,15/03/2022
+"Wed, 16 Mar",Air India,BOM - BLR,05:20 - 22:15, 16h 55m ,2 stops,"₹ 25,403",Mumbai - BOM,Bengaluru - BLR,15/03/2022
+"Wed, 16 Mar",Multiple Airlines,BOM - BLR,18:55 - 16:50, 21h 55m ,1 stop,"₹ 17,728",Mumbai - BOM,Bengaluru - BLR,15/03/2022
+"Wed, 16 Mar",Air India,BOM - BLR,21:00 - 22:30+1, 25h 30m ,1 stop,"₹ 11,775",Mumbai - BOM,Bengaluru - BLR,15/03/2022
+"Wed, 16 Mar",Vistara,BOM - BLR,14:00 - 08:40, 18h 40m ,2 stops,"₹ 24,982",Mumbai - BOM,Bengaluru - BLR,15/03/2022
+"Wed, 16 Mar",Vistara,BOM - BLR,21:00 - 17:00, 20h ,2 stops,"₹ 23,559",Mumbai - BOM,Bengaluru - BLR,15/03/2022
+"Wed, 16 Mar",Air India,BOM - BLR,11:10 - 08:55, 21h 45m ,2 stops,"₹ 22,063",Mumbai - BOM,Bengaluru - BLR,15/03/2022
+"Wed, 16 Mar",Mahfooz Aviation (Gambia) Ltd.,BOM - BLR,19:30 - 20:55+1, 25h 25m ,1 stop,"₹ 18,351",Mumbai - BOM,Bengaluru - BLR,15/03/2022
+"Wed, 16 Mar",Vistara,BOM - BLR,17:20 - 17:00, 23h 40m ,2 stops,"₹ 23,548",Mumbai - BOM,Bengaluru - BLR,15/03/2022
+"Wed, 16 Mar",Vistara,BOM - BLR,16:05 - 18:15+1, 26h 10m ,1 stop,"₹ 20,431",Mumbai - BOM,Bengaluru - BLR,15/03/2022
+"Wed, 16 Mar",Air India,BOM - BLR,20:15 - 22:15+1, 26h ,1 stop,"₹ 25,095",Mumbai - BOM,Bengaluru - BLR,15/03/2022
+"Wed, 16 Mar",Vistara,BOM - BLR,11:55 - 18:15+1, 30h 20m ,2 stops,"₹ 20,141",Mumbai - BOM,Bengaluru - BLR,15/03/2022
+"Wed, 16 Mar",Air India,BOM - BLR,07:05 - 01:50, 18h 45m ,3 stops,"₹ 41,656",Mumbai - BOM,Bengaluru - BLR,15/03/2022
+"Wed, 16 Mar",Vistara,BOM - BLR,14:40 - 08:50, 18h 10m ,2 stops,"₹ 43,259",Mumbai - BOM,Bengaluru - BLR,15/03/2022
+"Wed, 16 Mar",Air India,BOM - BLR,14:20 - 00:10+1, 33h 50m ,2 stops,"₹ 19,552",Mumbai - BOM,Bengaluru - BLR,15/03/2022
+"Wed, 16 Mar",Air India,BOM - BLR,07:00 - 20:50, 13h 50m ,3 stops,"₹ 54,238",Mumbai - BOM,Bengaluru - BLR,15/03/2022
+"Wed, 16 Mar",Vistara,BOM - BLR,06:00 - 18:15+1, 36h 15m ,2 stops,"₹ 18,802",Mumbai - BOM,Bengaluru - BLR,15/03/2022
+"Wed, 16 Mar",Air India,BOM - BLR,07:05 - 22:15, 15h 10m ,3 stops,"₹ 55,935",Mumbai - BOM,Bengaluru - BLR,15/03/2022
+"Wed, 16 Mar",Air India,BOM - BLR,09:50 - 00:10+1, 38h 20m ,3 stops,"₹ 20,182",Mumbai - BOM,Bengaluru - BLR,15/03/2022
+"Wed, 16 Mar",Air India,BOM - BLR,05:05 - 22:15+1, 45h 50m ,3 stops,"₹ 15,198",Mumbai - BOM,Bengaluru - BLR,15/03/2022

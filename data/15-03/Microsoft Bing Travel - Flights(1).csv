@@ -1,0 +1,137 @@
+﻿dep_date,airline,station,time,duration,stops,price,source,destination,dateofbooking
+"Wed, 30 Mar",FlexFlight,BOM - CCU,05:05 - 07:45, 2h 40m ,Non-stop,"₹ 5,979",Mumbai - BOM,Kolkata - CCU,15/03/2022
+"Wed, 30 Mar",FlexFlight,BOM - CCU,21:45 - 00:30, 2h 45m ,Non-stop,"₹ 5,979",Mumbai - BOM,Kolkata - CCU,15/03/2022
+"Wed, 30 Mar",Go First,BOM - CCU,05:05 - 07:45, 2h 40m ,Non-stop,"₹ 6,208",Mumbai - BOM,Kolkata - CCU,15/03/2022
+"Wed, 30 Mar",SpiceJet,BOM - CCU,20:50 - 23:35, 2h 45m ,Non-stop,"₹ 6,124",Mumbai - BOM,Kolkata - CCU,15/03/2022
+"Wed, 30 Mar",IndiGo,BOM - CCU,07:50 - 10:20, 2h 30m ,Non-stop,"₹ 6,788",Mumbai - BOM,Kolkata - CCU,15/03/2022
+"Wed, 30 Mar",SpiceJet,BOM - CCU,06:10 - 08:55, 2h 45m ,Non-stop,"₹ 6,124",Mumbai - BOM,Kolkata - CCU,15/03/2022
+"Wed, 30 Mar",Go First,BOM - CCU,21:45 - 00:30, 2h 45m ,Non-stop,"₹ 6,208",Mumbai - BOM,Kolkata - CCU,15/03/2022
+"Wed, 30 Mar",Vistara,BOM - CCU,17:20 - 19:55, 2h 35m ,Non-stop,"₹ 6,751",Mumbai - BOM,Kolkata - CCU,15/03/2022
+"Wed, 30 Mar",IndiGo,BOM - CCU,22:40 - 01:15, 2h 35m ,Non-stop,"₹ 6,788",Mumbai - BOM,Kolkata - CCU,15/03/2022
+"Wed, 30 Mar",IndiGo,BOM - CCU,12:55 - 15:30, 2h 35m ,Non-stop,"₹ 6,788",Mumbai - BOM,Kolkata - CCU,15/03/2022
+"Wed, 30 Mar",IndiGo,BOM - CCU,17:35 - 20:10, 2h 35m ,Non-stop,"₹ 6,788",Mumbai - BOM,Kolkata - CCU,15/03/2022
+"Wed, 30 Mar",IndiGo,BOM - CCU,09:50 - 12:25, 2h 35m ,Non-stop,"₹ 6,788",Mumbai - BOM,Kolkata - CCU,15/03/2022
+"Wed, 30 Mar",Air India,BOM - CCU,06:00 - 08:50, 2h 50m ,Non-stop,"₹ 6,619",Mumbai - BOM,Kolkata - CCU,15/03/2022
+"Wed, 30 Mar",IndiGo,BOM - CCU,06:25 - 09:10, 2h 45m ,Non-stop,"₹ 6,788",Mumbai - BOM,Kolkata - CCU,15/03/2022
+"Wed, 30 Mar",Vistara,BOM - CCU,07:00 - 09:40, 2h 40m ,Non-stop,"₹ 6,909",Mumbai - BOM,Kolkata - CCU,15/03/2022
+"Wed, 30 Mar",IndiGo,BOM - CCU,19:25 - 22:20, 2h 55m ,Non-stop,"₹ 6,788",Mumbai - BOM,Kolkata - CCU,15/03/2022
+"Wed, 30 Mar",Vistara,BOM - CCU,14:05 - 16:55, 2h 50m ,Non-stop,"₹ 6,909",Mumbai - BOM,Kolkata - CCU,15/03/2022
+"Wed, 30 Mar",Air India,BOM - CCU,21:05 - 23:55, 2h 50m ,Non-stop,"₹ 7,103",Mumbai - BOM,Kolkata - CCU,15/03/2022
+"Wed, 30 Mar",IndiGo,BOM - CCU,17:15 - 22:30, 5h 15m ,1 stop,"₹ 6,788",Mumbai - BOM,Kolkata - CCU,15/03/2022
+"Wed, 30 Mar",SpiceJet,BOM - CCU,15:40 - 20:45, 5h 5m ,1 stop,"₹ 7,043",Mumbai - BOM,Kolkata - CCU,15/03/2022
+"Wed, 30 Mar",IndiGo,BOM - CCU,13:55 - 19:25, 5h 30m ,1 stop,"₹ 6,788",Mumbai - BOM,Kolkata - CCU,15/03/2022
+"Wed, 30 Mar",IndiGo,BOM - CCU,17:10 - 22:40, 5h 30m ,1 stop,"₹ 6,788",Mumbai - BOM,Kolkata - CCU,15/03/2022
+"Wed, 30 Mar",IndiGo,BOM - CCU,05:20 - 11:05, 5h 45m ,1 stop,"₹ 6,788",Mumbai - BOM,Kolkata - CCU,15/03/2022
+"Wed, 30 Mar",IndiGo,BOM - CCU,11:10 - 17:15, 6h 5m ,1 stop,"₹ 6,788",Mumbai - BOM,Kolkata - CCU,15/03/2022
+"Wed, 30 Mar",IndiGo,BOM - CCU,12:20 - 18:30, 6h 10m ,1 stop,"₹ 6,788",Mumbai - BOM,Kolkata - CCU,15/03/2022
+"Wed, 30 Mar",IndiGo,BOM - CCU,07:05 - 13:20, 6h 15m ,1 stop,"₹ 6,788",Mumbai - BOM,Kolkata - CCU,15/03/2022
+"Wed, 30 Mar",IndiGo,BOM - CCU,15:00 - 21:40, 6h 40m ,1 stop,"₹ 6,788",Mumbai - BOM,Kolkata - CCU,15/03/2022
+"Wed, 30 Mar",IndiGo,BOM - CCU,16:05 - 22:30, 6h 25m ,1 stop,"₹ 7,188",Mumbai - BOM,Kolkata - CCU,15/03/2022
+"Wed, 30 Mar",IndiGo,BOM - CCU,06:15 - 13:20, 7h 5m ,1 stop,"₹ 7,188",Mumbai - BOM,Kolkata - CCU,15/03/2022
+"Wed, 30 Mar",Vistara,BOM - CCU,17:35 - 22:45, 5h 10m ,1 stop,"₹ 9,810",Mumbai - BOM,Kolkata - CCU,15/03/2022
+"Wed, 30 Mar",IndiGo,BOM - CCU,15:45 - 23:40, 7h 55m ,1 stop,"₹ 6,788",Mumbai - BOM,Kolkata - CCU,15/03/2022
+"Wed, 30 Mar",AirAsia (India),BOM - CCU,18:10 - 02:05, 7h 55m ,1 stop,"₹ 6,887",Mumbai - BOM,Kolkata - CCU,15/03/2022
+"Wed, 30 Mar",Vistara,BOM - CCU,12:25 - 18:05, 5h 40m ,1 stop,"₹ 9,810",Mumbai - BOM,Kolkata - CCU,15/03/2022
+"Wed, 30 Mar",IndiGo,BOM - CCU,09:10 - 17:30, 8h 20m ,1 stop,"₹ 6,788",Mumbai - BOM,Kolkata - CCU,15/03/2022
+"Wed, 30 Mar",Air India,BOM - CCU,09:50 - 16:40, 6h 50m ,2 stops,"₹ 8,660",Mumbai - BOM,Kolkata - CCU,15/03/2022
+"Wed, 30 Mar",Go First,BOM - CCU,16:25 - 21:55, 5h 30m ,1 stop,"₹ 10,367",Mumbai - BOM,Kolkata - CCU,15/03/2022
+"Wed, 30 Mar",IndiGo,BOM - CCU,09:00 - 17:15, 8h 15m ,1 stop,"₹ 7,188",Mumbai - BOM,Kolkata - CCU,15/03/2022
+"Wed, 30 Mar",Go First,BOM - CCU,05:40 - 11:20, 5h 40m ,1 stop,"₹ 10,367",Mumbai - BOM,Kolkata - CCU,15/03/2022
+"Wed, 30 Mar",Vistara,BOM - CCU,11:55 - 18:05, 6h 10m ,1 stop,"₹ 10,295",Mumbai - BOM,Kolkata - CCU,15/03/2022
+"Wed, 30 Mar",IndiGo,BOM - CCU,19:55 - 05:15, 9h 20m ,1 stop,"₹ 6,788",Mumbai - BOM,Kolkata - CCU,15/03/2022
+"Wed, 30 Mar",IndiGo,BOM - CCU,21:25 - 06:50, 9h 25m ,1 stop,"₹ 6,788",Mumbai - BOM,Kolkata - CCU,15/03/2022
+"Wed, 30 Mar",Air India,BOM - CCU,05:25 - 10:50, 5h 25m ,1 stop,"₹ 11,854",Mumbai - BOM,Kolkata - CCU,15/03/2022
+"Wed, 30 Mar",Go First,BOM - CCU,06:10 - 14:10, 8h ,1 stop,"₹ 8,785",Mumbai - BOM,Kolkata - CCU,15/03/2022
+"Wed, 30 Mar",Air India,BOM - CCU,16:00 - 22:25, 6h 25m ,1 stop,"₹ 10,818",Mumbai - BOM,Kolkata - CCU,15/03/2022
+"Wed, 30 Mar",Air India,BOM - CCU,08:00 - 14:30, 6h 30m ,1 stop,"₹ 10,818",Mumbai - BOM,Kolkata - CCU,15/03/2022
+"Wed, 30 Mar",Go First,BOM - CCU,05:50 - 13:30, 7h 40m ,1 stop,"₹ 9,447",Mumbai - BOM,Kolkata - CCU,15/03/2022
+"Wed, 30 Mar",Vistara,BOM - CCU,15:45 - 22:45, 7h ,1 stop,"₹ 10,285",Mumbai - BOM,Kolkata - CCU,15/03/2022
+"Wed, 30 Mar",Air India,BOM - CCU,13:00 - 19:10, 6h 10m ,1 stop,"₹ 11,429",Mumbai - BOM,Kolkata - CCU,15/03/2022
+"Wed, 30 Mar",Go First,BOM - CCU,14:35 - 23:05, 8h 30m ,1 stop,"₹ 8,785",Mumbai - BOM,Kolkata - CCU,15/03/2022
+"Wed, 30 Mar",SpiceJet,BOM - CCU,13:00 - 18:30, 5h 30m ,1 stop,"₹ 12,513",Mumbai - BOM,Kolkata - CCU,15/03/2022
+"Wed, 30 Mar",Go First,BOM - CCU,00:10 - 07:50, 7h 40m ,1 stop,"₹ 10,083",Mumbai - BOM,Kolkata - CCU,15/03/2022
+"Wed, 30 Mar",Air India,BOM - CCU,15:25 - 22:25, 7h ,2 stops,"₹ 10,976",Mumbai - BOM,Kolkata - CCU,15/03/2022
+"Wed, 30 Mar",Vistara,BOM - CCU,10:25 - 18:05, 7h 40m ,1 stop,"₹ 10,295",Mumbai - BOM,Kolkata - CCU,15/03/2022
+"Wed, 30 Mar",Air India,BOM - CCU,07:05 - 14:30, 7h 25m ,2 stops,"₹ 10,976",Mumbai - BOM,Kolkata - CCU,15/03/2022
+"Wed, 30 Mar",AirAsia (India),BOM - CCU,22:00 - 09:00, 11h ,1 stop,"₹ 6,887",Mumbai - BOM,Kolkata - CCU,15/03/2022
+"Wed, 30 Mar",Air India,BOM - CCU,07:00 - 15:00, 8h ,2 stops,"₹ 10,624",Mumbai - BOM,Kolkata - CCU,15/03/2022
+"Wed, 30 Mar",AirAsia (India),BOM - CCU,19:45 - 07:05, 11h 20m ,1 stop,"₹ 6,887",Mumbai - BOM,Kolkata - CCU,15/03/2022
+"Wed, 30 Mar",Go First,BOM - CCU,22:30 - 08:35, 10h 5m ,1 stop,"₹ 8,477",Mumbai - BOM,Kolkata - CCU,15/03/2022
+"Wed, 30 Mar",Vistara,BOM - CCU,14:40 - 22:45, 8h 5m ,1 stop,"₹ 11,072",Mumbai - BOM,Kolkata - CCU,15/03/2022
+"Wed, 30 Mar",AirAsia (India),BOM - CCU,21:20 - 09:00, 11h 40m ,1 stop,"₹ 6,888",Mumbai - BOM,Kolkata - CCU,15/03/2022
+"Wed, 30 Mar",IndiGo,BOM - CCU,10:20 - 21:40, 11h 20m ,1 stop,"₹ 7,327",Mumbai - BOM,Kolkata - CCU,15/03/2022
+"Wed, 30 Mar",Vistara,BOM - CCU,22:45 - 08:20, 9h 35m ,1 stop,"₹ 9,845",Mumbai - BOM,Kolkata - CCU,15/03/2022
+"Wed, 30 Mar",Vistara,BOM - CCU,08:45 - 18:05, 9h 20m ,1 stop,"₹ 10,295",Mumbai - BOM,Kolkata - CCU,15/03/2022
+"Wed, 30 Mar",Go First,BOM - CCU,13:50 - 23:40, 9h 50m ,1 stop,"₹ 10,273",Mumbai - BOM,Kolkata - CCU,15/03/2022
+"Wed, 30 Mar",SpiceJet,BOM - CCU,10:15 - 20:25, 10h 10m ,1 stop,"₹ 10,026",Mumbai - BOM,Kolkata - CCU,15/03/2022
+"Wed, 30 Mar",Hahn Air Systems,BOM - CCU,20:50 - 23:35, 2h 45m ,Non-stop,"₹ 18,936",Mumbai - BOM,Kolkata - CCU,15/03/2022
+"Wed, 30 Mar",Hahn Air Systems,BOM - CCU,06:10 - 08:55, 2h 45m ,Non-stop,"₹ 18,936",Mumbai - BOM,Kolkata - CCU,15/03/2022
+"Wed, 30 Mar",SpiceJet,BOM - CCU,08:10 - 19:35, 11h 25m ,1 stop,"₹ 8,727",Mumbai - BOM,Kolkata - CCU,15/03/2022
+"Wed, 30 Mar",Vistara,BOM - CCU,21:55 - 08:20, 10h 25m ,1 stop,"₹ 10,295",Mumbai - BOM,Kolkata - CCU,15/03/2022
+"Wed, 30 Mar",Go First,BOM - CCU,23:00 - 07:50, 8h 50m ,1 stop,"₹ 12,375",Mumbai - BOM,Kolkata - CCU,15/03/2022
+"Wed, 30 Mar",Vistara,BOM - CCU,07:30 - 18:05, 10h 35m ,1 stop,"₹ 10,295",Mumbai - BOM,Kolkata - CCU,15/03/2022
+"Wed, 30 Mar",Air India,BOM - CCU,20:25 - 08:15, 11h 50m ,1 stop,"₹ 9,033",Mumbai - BOM,Kolkata - CCU,15/03/2022
+"Wed, 30 Mar",IndiGo,BOM - CCU,13:15 - 22:20, 9h 5m ,1 stop,"₹ 12,400",Mumbai - BOM,Kolkata - CCU,15/03/2022
+"Wed, 30 Mar",SpiceJet,BOM - CCU,21:55 - 09:05, 11h 10m ,1 stop,"₹ 10,026",Mumbai - BOM,Kolkata - CCU,15/03/2022
+"Wed, 30 Mar",Air India,BOM - CCU,09:50 - 20:05, 13h ,2 stops,"₹ 8,417",Mumbai - BOM,Kolkata - CCU,15/03/2022
+"Wed, 30 Mar",Air India,BOM - CCU,09:00 - 19:10, 10h 10m ,1 stop,"₹ 11,838",Mumbai - BOM,Kolkata - CCU,15/03/2022
+"Wed, 30 Mar",Vistara,BOM - CCU,12:15 - 19:35, 7h 20m ,2 stops,"₹ 15,906",Mumbai - BOM,Kolkata - CCU,15/03/2022
+"Wed, 30 Mar",Multiple Airlines,BOM - CCU,12:20 - 20:05, 10h 30m ,2 stops,"₹ 12,152",Mumbai - BOM,Kolkata - CCU,15/03/2022
+"Wed, 30 Mar",SpiceJet,BOM - CCU,08:25 - 18:30, 10h 5m ,1 stop,"₹ 12,888",Mumbai - BOM,Kolkata - CCU,15/03/2022
+"Wed, 30 Mar",AirAsia (India),BOM - CCU,07:20 - 23:00, 15h 40m ,1 stop,"₹ 6,887",Mumbai - BOM,Kolkata - CCU,15/03/2022
+"Wed, 30 Mar",SpiceJet,BOM - CCU,19:35 - 09:15, 13h 40m ,1 stop,"₹ 9,389",Mumbai - BOM,Kolkata - CCU,15/03/2022
+"Wed, 30 Mar",SpiceJet,BOM - CCU,07:20 - 20:25, 13h 5m ,1 stop,"₹ 10,601",Mumbai - BOM,Kolkata - CCU,15/03/2022
+"Wed, 30 Mar",Vistara,BOM - CCU,09:05 - 18:05, 9h ,2 stops,"₹ 15,832",Mumbai - BOM,Kolkata - CCU,15/03/2022
+"Wed, 30 Mar",SpiceJet,BOM - CCU,19:35 - 09:05, 13h 30m ,1 stop,"₹ 10,601",Mumbai - BOM,Kolkata - CCU,15/03/2022
+"Wed, 30 Mar",SpiceJet,BOM - CCU,05:40 - 20:50, 15h 10m ,1 stop,"₹ 9,463",Mumbai - BOM,Kolkata - CCU,15/03/2022
+"Wed, 30 Mar",Vistara,BOM - CCU,12:15 - 22:45, 10h 30m ,2 stops,"₹ 15,361",Mumbai - BOM,Kolkata - CCU,15/03/2022
+"Wed, 30 Mar",Vistara,BOM - CCU,12:10 - 22:45, 10h 35m ,2 stops,"₹ 15,330",Mumbai - BOM,Kolkata - CCU,15/03/2022
+"Wed, 30 Mar",Air India,BOM - CCU,16:40 - 07:45, 15h 5m ,1 stop,"₹ 10,083",Mumbai - BOM,Kolkata - CCU,15/03/2022
+"Wed, 30 Mar",AirAsia (India),BOM - CCU,12:25 - 02:05, 13h 40m ,2 stops,"₹ 12,575",Mumbai - BOM,Kolkata - CCU,15/03/2022
+"Wed, 30 Mar",AirAsia (India),BOM - CCU,07:20 - 14:50, 7h 30m ,2 stops,"₹ 20,077",Mumbai - BOM,Kolkata - CCU,15/03/2022
+"Wed, 30 Mar",Air India,BOM - CCU,09:30 - 19:10, 9h 40m ,2 stops,"₹ 17,619",Mumbai - BOM,Kolkata - CCU,15/03/2022
+"Wed, 30 Mar",Vistara,BOM - CCU,10:45 - 22:45, 12h ,2 stops,"₹ 15,047",Mumbai - BOM,Kolkata - CCU,15/03/2022
+"Wed, 30 Mar",Air India,BOM - CCU,19:00 - 09:00, 14h ,1 stop,"₹ 13,314",Mumbai - BOM,Kolkata - CCU,15/03/2022
+"Wed, 30 Mar",Vistara,BOM - CCU,06:00 - 19:35, 13h 35m ,2 stops,"₹ 14,358",Mumbai - BOM,Kolkata - CCU,15/03/2022
+"Wed, 30 Mar",Air India,BOM - CCU,18:00 - 07:45, 13h 45m ,2 stops,"₹ 14,436",Mumbai - BOM,Kolkata - CCU,15/03/2022
+"Wed, 30 Mar",AirAsia (India),BOM - CCU,12:25 - 00:50, 12h 25m ,2 stops,"₹ 16,994",Mumbai - BOM,Kolkata - CCU,15/03/2022
+"Wed, 30 Mar",Air India,BOM - CCU,21:00 - 09:00, 12h ,2 stops,"₹ 18,977",Mumbai - BOM,Kolkata - CCU,15/03/2022
+"Wed, 30 Mar",Vistara,BOM - CCU,17:30 - 08:20, 14h 50m ,2 stops,"₹ 15,832",Mumbai - BOM,Kolkata - CCU,15/03/2022
+"Wed, 30 Mar",Air India,BOM - CCU,06:10 - 19:10, 13h ,2 stops,"₹ 18,147",Mumbai - BOM,Kolkata - CCU,15/03/2022
+"Wed, 30 Mar",Air India,BOM - CCU,15:25 - 07:45, 16h 20m ,3 stops,"₹ 14,436",Mumbai - BOM,Kolkata - CCU,15/03/2022
+"Wed, 30 Mar",Vistara,BOM - CCU,09:05 - 19:35, 10h 30m ,3 stops,"₹ 21,654",Mumbai - BOM,Kolkata - CCU,15/03/2022
+"Wed, 30 Mar",Vistara,BOM - CCU,06:20 - 19:35, 13h 15m ,3 stops,"₹ 20,079",Mumbai - BOM,Kolkata - CCU,15/03/2022
+"Wed, 30 Mar",AirAsia (India),BOM - CCU,03:10 - 19:50, 16h 40m ,2 stops,"₹ 16,049",Mumbai - BOM,Kolkata - CCU,15/03/2022
+"Wed, 30 Mar",Air India,BOM - CCU,06:10 - 22:25, 16h 15m ,2 stops,"₹ 17,579",Mumbai - BOM,Kolkata - CCU,15/03/2022
+"Wed, 30 Mar",Air India,BOM - CCU,16:00 - 10:50, 18h 50m ,2 stops,"₹ 14,691",Mumbai - BOM,Kolkata - CCU,15/03/2022
+"Wed, 30 Mar",Hahn Air Systems,BOM - CCU,15:40 - 20:45, 5h 5m ,1 stop,"₹ 31,535",Mumbai - BOM,Kolkata - CCU,15/03/2022
+"Wed, 30 Mar",Air India,BOM - CCU,21:00 - 14:30, 17h 30m ,2 stops,"₹ 17,792",Mumbai - BOM,Kolkata - CCU,15/03/2022
+"Wed, 30 Mar",Air India,BOM - CCU,16:40 - 09:00, 16h 20m ,2 stops,"₹ 19,929",Mumbai - BOM,Kolkata - CCU,15/03/2022
+"Wed, 30 Mar",SpiceJet,BOM - CCU,13:00 - 13:10+1, 24h 10m ,1 stop,"₹ 12,387",Mumbai - BOM,Kolkata - CCU,15/03/2022
+"Wed, 30 Mar",Air India,BOM - CCU,10:55 - 09:00, 22h 5m ,2 stops,"₹ 16,064",Mumbai - BOM,Kolkata - CCU,15/03/2022
+"Wed, 30 Mar",Air India,BOM - CCU,19:00 - 21:15+1, 26h 15m ,2 stops,"₹ 11,655",Mumbai - BOM,Kolkata - CCU,15/03/2022
+"Wed, 30 Mar",Air India,BOM - CCU,19:00 - 20:05+1, 27h 50m ,3 stops,"₹ 12,244",Mumbai - BOM,Kolkata - CCU,15/03/2022
+"Wed, 30 Mar",Air India,BOM - CCU,20:25 - 20:05, 26h 25m ,4 stops,"₹ 14,263",Mumbai - BOM,Kolkata - CCU,15/03/2022
+"Wed, 30 Mar",Hahn Air Systems,BOM - CCU,13:00 - 18:30, 5h 30m ,1 stop,"₹ 40,259",Mumbai - BOM,Kolkata - CCU,15/03/2022
+"Wed, 30 Mar",Air India,BOM - CCU,15:25 - 21:15+1, 29h 50m ,3 stops,"₹ 11,655",Mumbai - BOM,Kolkata - CCU,15/03/2022
+"Wed, 30 Mar",Air India,BOM - CCU,09:50 - 14:30+1, 28h 40m ,3 stops,"₹ 13,281",Mumbai - BOM,Kolkata - CCU,15/03/2022
+"Wed, 30 Mar",Emirates,BOM - CCU,10:10 - 19:15, 9h 5m ,1 stop,"₹ 36,996",Mumbai - BOM,Kolkata - CCU,15/03/2022
+"Wed, 30 Mar",Hahn Air Systems,BOM - CCU,10:15 - 20:25, 10h 10m ,1 stop,"₹ 35,725",Mumbai - BOM,Kolkata - CCU,15/03/2022
+"Wed, 30 Mar",Hahn Air Systems,BOM - CCU,08:10 - 19:35, 11h 25m ,1 stop,"₹ 34,750",Mumbai - BOM,Kolkata - CCU,15/03/2022
+"Wed, 30 Mar",Alaska Seaplane,BOM - CCU,21:55 - 09:05, 11h 10m ,1 stop,"₹ 35,725",Mumbai - BOM,Kolkata - CCU,15/03/2022
+"Wed, 30 Mar",Air India,BOM - CCU,15:25 - 20:05+1, 31h 25m ,4 stops,"₹ 12,244",Mumbai - BOM,Kolkata - CCU,15/03/2022
+"Wed, 30 Mar",Hahn Air Systems,BOM - CCU,21:55 - 09:05, 11h 10m ,1 stop,"₹ 37,670",Mumbai - BOM,Kolkata - CCU,15/03/2022
+"Wed, 30 Mar",Air India,BOM - CCU,10:25 - 19:10+1, 32h 45m ,2 stops,"₹ 14,205",Mumbai - BOM,Kolkata - CCU,15/03/2022
+"Wed, 30 Mar",Hahn Air Systems,BOM - CCU,19:35 - 09:15, 13h 40m ,1 stop,"₹ 37,068",Mumbai - BOM,Kolkata - CCU,15/03/2022
+"Wed, 30 Mar",Hahn Air Systems,BOM - CCU,05:40 - 20:50, 15h 10m ,1 stop,"₹ 37,565",Mumbai - BOM,Kolkata - CCU,15/03/2022
+"Wed, 30 Mar",Hahn Air Systems,BOM - CCU,10:15 - 20:45, 10h 30m ,2 stops,"₹ 49,750",Mumbai - BOM,Kolkata - CCU,15/03/2022
+"Wed, 30 Mar",Hahn Air Systems,BOM - CCU,07:20 - 17:15, 9h 55m ,2 stops,"₹ 50,571",Mumbai - BOM,Kolkata - CCU,15/03/2022
+"Wed, 30 Mar",Hahn Air Systems,BOM - CCU,10:50 - 20:25, 9h 35m ,2 stops,"₹ 52,623",Mumbai - BOM,Kolkata - CCU,15/03/2022
+"Wed, 30 Mar",Hahn Air Systems,BOM - CCU,13:00 - 13:10+1, 24h 10m ,1 stop,"₹ 39,233",Mumbai - BOM,Kolkata - CCU,15/03/2022
+"Wed, 30 Mar",Multiple Airlines,BOM - CCU,19:20 - 08:20, 13h ,2 stops,"₹ 53,172",Mumbai - BOM,Kolkata - CCU,15/03/2022
+"Wed, 30 Mar",Hahn Air Systems,BOM - CCU,21:55 - 13:10, 15h 15m ,2 stops,"₹ 52,572",Mumbai - BOM,Kolkata - CCU,15/03/2022
+"Wed, 30 Mar",Multiple Airlines,BOM - CCU,10:10 - 09:35, 23h 25m ,2 stops,"₹ 43,103",Mumbai - BOM,Kolkata - CCU,15/03/2022
+"Wed, 30 Mar",Hahn Air Systems,BOM - CCU,11:15 - 21:55, 10h 40m ,2 stops,"₹ 58,377",Mumbai - BOM,Kolkata - CCU,15/03/2022
+"Wed, 30 Mar",Multiple Airlines,BOM - CCU,10:10 - 08:20, 22h 10m ,2 stops,"₹ 47,781",Mumbai - BOM,Kolkata - CCU,15/03/2022
+"Wed, 30 Mar",Hahn Air Systems,BOM - CCU,21:55 - 17:15, 19h 20m ,2 stops,"₹ 51,546",Mumbai - BOM,Kolkata - CCU,15/03/2022
+"Wed, 30 Mar",Multiple Airlines,BOM - CCU,16:15 - 08:20, 16h 5m ,2 stops,"₹ 114,516",Mumbai - BOM,Kolkata - CCU,15/03/2022

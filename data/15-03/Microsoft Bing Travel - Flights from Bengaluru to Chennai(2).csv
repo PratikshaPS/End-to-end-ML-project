@@ -1,0 +1,62 @@
+﻿dep_date,airline,station,time,duration,stops,price,source,destination,dateofbooking
+"Wed, 30 Mar",IndiGo,MAA - BLR,19:10 - 19:55, 45m ,Non-stop,"₹ 3,471",Chennai - MAA,Bengaluru - BLR,15/03/2022
+"Wed, 30 Mar",IndiGo,MAA - BLR,11:20 - 12:10, 50m ,Non-stop,"₹ 3,366",Chennai - MAA,Bengaluru - BLR,15/03/2022
+"Wed, 30 Mar",AirAsia (India),MAA - BLR,22:35 - 23:30, 55m ,Non-stop,"₹ 3,348",Chennai - MAA,Bengaluru - BLR,15/03/2022
+"Wed, 30 Mar",IndiGo,MAA - BLR,07:45 - 08:40, 55m ,Non-stop,"₹ 3,366",Chennai - MAA,Bengaluru - BLR,15/03/2022
+"Wed, 30 Mar",SpiceJet,MAA - BLR,07:50 - 09:00, 1h 10m ,Non-stop,"₹ 3,101",Chennai - MAA,Bengaluru - BLR,15/03/2022
+"Wed, 30 Mar",IndiGo,MAA - BLR,16:20 - 17:15, 55m ,Non-stop,"₹ 3,366",Chennai - MAA,Bengaluru - BLR,15/03/2022
+"Wed, 30 Mar",IndiGo,MAA - BLR,17:55 - 18:50, 55m ,Non-stop,"₹ 3,466",Chennai - MAA,Bengaluru - BLR,15/03/2022
+"Wed, 30 Mar",IndiGo,MAA - BLR,21:25 - 22:20, 55m ,Non-stop,"₹ 3,466",Chennai - MAA,Bengaluru - BLR,15/03/2022
+"Wed, 30 Mar",IndiGo,MAA - BLR,09:00 - 09:55, 55m ,Non-stop,"₹ 3,467",Chennai - MAA,Bengaluru - BLR,15/03/2022
+"Wed, 30 Mar",AirAsia (India),MAA - BLR,16:00 - 17:00, 1h ,Non-stop,"₹ 3,348",Chennai - MAA,Bengaluru - BLR,15/03/2022
+"Wed, 30 Mar",IndiGo,MAA - BLR,13:00 - 14:00, 1h ,Non-stop,"₹ 3,366",Chennai - MAA,Bengaluru - BLR,15/03/2022
+"Wed, 30 Mar",AirAsia (India),MAA - BLR,15:50 - 17:00, 1h 10m ,Non-stop,"₹ 3,466",Chennai - MAA,Bengaluru - BLR,15/03/2022
+"Wed, 30 Mar",IndiGo,MAA - BLR,19:40 - 23:30, 3h 50m ,1 stop,"₹ 6,336",Chennai - MAA,Bengaluru - BLR,15/03/2022
+"Wed, 30 Mar",Hahn Air Systems,MAA - BLR,07:50 - 09:00, 1h 10m ,Non-stop,"₹ 14,467",Chennai - MAA,Bengaluru - BLR,15/03/2022
+"Wed, 30 Mar",IndiGo,MAA - BLR,16:15 - 20:45, 4h 30m ,1 stop,"₹ 8,273",Chennai - MAA,Bengaluru - BLR,15/03/2022
+"Wed, 30 Mar",IndiGo,MAA - BLR,12:35 - 17:25, 4h 50m ,1 stop,"₹ 7,952",Chennai - MAA,Bengaluru - BLR,15/03/2022
+"Wed, 30 Mar",IndiGo,MAA - BLR,09:50 - 14:15, 4h 25m ,1 stop,"₹ 9,178",Chennai - MAA,Bengaluru - BLR,15/03/2022
+"Wed, 30 Mar",IndiGo,MAA - BLR,06:35 - 10:45, 4h 10m ,1 stop,"₹ 9,723",Chennai - MAA,Bengaluru - BLR,15/03/2022
+"Wed, 30 Mar",IndiGo,MAA - BLR,18:10 - 23:05, 4h 55m ,1 stop,"₹ 9,297",Chennai - MAA,Bengaluru - BLR,15/03/2022
+"Wed, 30 Mar",Vistara,MAA - BLR,12:30 - 17:45, 5h 15m ,1 stop,"₹ 9,041",Chennai - MAA,Bengaluru - BLR,15/03/2022
+"Wed, 30 Mar",Air India,MAA - BLR,06:20 - 11:10, 4h 50m ,1 stop,"₹ 10,023",Chennai - MAA,Bengaluru - BLR,15/03/2022
+"Wed, 30 Mar",Multiple Airlines,MAA - BLR,08:15 - 16:30, 8h 15m ,1 stop,"₹ 8,512",Chennai - MAA,Bengaluru - BLR,15/03/2022
+"Wed, 30 Mar",Vistara,MAA - BLR,10:45 - 17:05, 6h 20m ,1 stop,"₹ 12,565",Chennai - MAA,Bengaluru - BLR,15/03/2022
+"Wed, 30 Mar",Go First,MAA - BLR,08:15 - 16:30, 8h 15m ,1 stop,"₹ 9,353",Chennai - MAA,Bengaluru - BLR,15/03/2022
+"Wed, 30 Mar",Multiple Airlines,MAA - BLR,13:40 - 22:50, 9h 10m ,1 stop,"₹ 8,193",Chennai - MAA,Bengaluru - BLR,15/03/2022
+"Wed, 30 Mar",Go First,MAA - BLR,13:40 - 22:50, 9h 10m ,1 stop,"₹ 9,353",Chennai - MAA,Bengaluru - BLR,15/03/2022
+"Wed, 30 Mar",Vistara,MAA - BLR,09:45 - 19:15, 9h 30m ,1 stop,"₹ 9,107",Chennai - MAA,Bengaluru - BLR,15/03/2022
+"Wed, 30 Mar",Vistara,MAA - BLR,07:00 - 17:45, 10h 45m ,1 stop,"₹ 9,107",Chennai - MAA,Bengaluru - BLR,15/03/2022
+"Wed, 30 Mar",Vistara,MAA - BLR,20:30 - 07:50, 11h 20m ,1 stop,"₹ 9,041",Chennai - MAA,Bengaluru - BLR,15/03/2022
+"Wed, 30 Mar",Vistara,MAA - BLR,10:45 - 19:30, 8h 45m ,2 stops,"₹ 15,277",Chennai - MAA,Bengaluru - BLR,15/03/2022
+"Wed, 30 Mar",Vistara,MAA - BLR,10:45 - 19:15, 8h 30m ,2 stops,"₹ 16,327",Chennai - MAA,Bengaluru - BLR,15/03/2022
+"Wed, 30 Mar",Air India,MAA - BLR,09:00 - 22:15, 13h 15m ,1 stop,"₹ 7,302",Chennai - MAA,Bengaluru - BLR,15/03/2022
+"Wed, 30 Mar",Air India,MAA - BLR,06:00 - 16:15, 10h 15m ,1 stop,"₹ 13,829",Chennai - MAA,Bengaluru - BLR,15/03/2022
+"Wed, 30 Mar",Vistara,MAA - BLR,07:00 - 16:00, 9h ,2 stops,"₹ 16,487",Chennai - MAA,Bengaluru - BLR,15/03/2022
+"Wed, 30 Mar",Air India,MAA - BLR,06:20 - 16:15, 9h 55m ,2 stops,"₹ 15,179",Chennai - MAA,Bengaluru - BLR,15/03/2022
+"Wed, 30 Mar",Air India,MAA - BLR,09:55 - 20:15, 10h 20m ,1 stop,"₹ 14,687",Chennai - MAA,Bengaluru - BLR,15/03/2022
+"Wed, 30 Mar",Air India,MAA - BLR,08:30 - 22:20, 13h 50m ,1 stop,"₹ 7,596",Chennai - MAA,Bengaluru - BLR,15/03/2022
+"Wed, 30 Mar",Vistara,MAA - BLR,07:05 - 18:50, 11h 45m ,1 stop,"₹ 12,234",Chennai - MAA,Bengaluru - BLR,15/03/2022
+"Wed, 30 Mar",Vistara,MAA - BLR,21:05 - 09:00, 11h 55m ,1 stop,"₹ 12,725",Chennai - MAA,Bengaluru - BLR,15/03/2022
+"Wed, 30 Mar",Vistara,MAA - BLR,07:00 - 19:30, 12h 30m ,2 stops,"₹ 11,882",Chennai - MAA,Bengaluru - BLR,15/03/2022
+"Wed, 30 Mar",Air India,MAA - BLR,16:55 - 00:05, 7h 10m ,1 stop,"₹ 23,336",Chennai - MAA,Bengaluru - BLR,15/03/2022
+"Wed, 30 Mar",Air India,MAA - BLR,20:50 - 08:55, 12h 5m ,1 stop,"₹ 14,687",Chennai - MAA,Bengaluru - BLR,15/03/2022
+"Wed, 30 Mar",Air India,MAA - BLR,06:00 - 18:20, 12h 20m ,2 stops,"₹ 14,444",Chennai - MAA,Bengaluru - BLR,15/03/2022
+"Wed, 30 Mar",Air India,MAA - BLR,06:00 - 20:15, 14h 15m ,1 stop,"₹ 13,344",Chennai - MAA,Bengaluru - BLR,15/03/2022
+"Wed, 30 Mar",Air India,MAA - BLR,06:20 - 20:15, 13h 55m ,2 stops,"₹ 14,601",Chennai - MAA,Bengaluru - BLR,15/03/2022
+"Wed, 30 Mar",Air India,MAA - BLR,15:25 - 07:50, 16h 25m ,1 stop,"₹ 11,531",Chennai - MAA,Bengaluru - BLR,15/03/2022
+"Wed, 30 Mar",Vistara,MAA - BLR,07:05 - 16:00, 8h 55m ,2 stops,"₹ 30,452",Chennai - MAA,Bengaluru - BLR,15/03/2022
+"Wed, 30 Mar",Air India,MAA - BLR,06:20 - 00:05, 17h 45m ,3 stops,"₹ 15,183",Chennai - MAA,Bengaluru - BLR,15/03/2022
+"Wed, 30 Mar",Hahn Air Systems,MAA - BLR,22:00 - 10:00, 12h ,1 stop,"₹ 33,562",Chennai - MAA,Bengaluru - BLR,15/03/2022
+"Wed, 30 Mar",Air India,MAA - BLR,09:00 - 07:50, 22h 50m ,2 stops,"₹ 12,020",Chennai - MAA,Bengaluru - BLR,15/03/2022
+"Wed, 30 Mar",Hahn Air Systems,MAA - BLR,21:40 - 09:00, 11h 20m ,1 stop,"₹ 38,438",Chennai - MAA,Bengaluru - BLR,15/03/2022
+"Wed, 30 Mar",Hahn Air Systems,MAA - BLR,06:25 - 20:35, 14h 10m ,1 stop,"₹ 33,562",Chennai - MAA,Bengaluru - BLR,15/03/2022
+"Wed, 30 Mar",Air India,MAA - BLR,08:20 - 10:55+1, 26h 35m ,1 stop,"₹ 10,701",Chennai - MAA,Bengaluru - BLR,15/03/2022
+"Wed, 30 Mar",Hahn Air Systems,MAA - BLR,18:30 - 08:25, 13h 55m ,1 stop,"₹ 37,663",Chennai - MAA,Bengaluru - BLR,15/03/2022
+"Wed, 30 Mar",Malaysia Airlines,MAA - BLR,23:55 - 23:40, 23h 45m ,1 stop,"₹ 26,262",Chennai - MAA,Bengaluru - BLR,15/03/2022
+"Wed, 30 Mar",Multiple Airlines,MAA - BLR,06:05 - 00:05, 18h ,1 stop,"₹ 38,438",Chennai - MAA,Bengaluru - BLR,15/03/2022
+"Wed, 30 Mar",Hahn Air Systems,MAA - BLR,06:05 - 00:05, 18h ,1 stop,"₹ 39,502",Chennai - MAA,Bengaluru - BLR,15/03/2022
+"Wed, 30 Mar",Hahn Air Systems,MAA - BLR,19:40 - 16:25, 20h 45m ,1 stop,"₹ 35,034",Chennai - MAA,Bengaluru - BLR,15/03/2022
+"Wed, 30 Mar",Hahn Air Systems,MAA - BLR,06:25 - 22:30, 16h 5m ,2 stops,"₹ 49,327",Chennai - MAA,Bengaluru - BLR,15/03/2022
+"Wed, 30 Mar",Hahn Air Systems,MAA - BLR,14:00 - 14:35+1, 24h 35m ,1 stop,"₹ 37,125",Chennai - MAA,Bengaluru - BLR,15/03/2022
+"Wed, 30 Mar",Hahn Air Systems,MAA - BLR,12:10 - 12:55+1, 24h 45m ,1 stop,"₹ 44,371",Chennai - MAA,Bengaluru - BLR,15/03/2022
